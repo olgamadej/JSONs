@@ -2,211 +2,263 @@
   "moving around & travel": [
     {
       "expression": "Pardon, …",
+      "no": 1,
       "id": 1
     },
     {
       "expression": "Excuse me…",
-      "id": 1
-    },
-    {
-      "expression": "Où est ...?",
+      "no": 1,
       "id": 2
     },
     {
-      "expression": "la poste",
+      "expression": "Où est ...?",
+      "no": 2,
       "id": 3
     },
     {
-      "expression": "la banque",
+      "expression": "la poste",
+      "no": 3,
       "id": 4
+    },
+    {
+      "expression": "la banque",
+      "no": 4,
+      "id": 5
     },
     {
       "expression": "the bank",
-      "id": 4
+      "no": 4,
+      "id": 6
     },
     {
       "expression": "le salon de coiffure",
-      "id": 5
+      "no": 5,
+      "id": 7
     },
     {
       "expression": "hair salon",
-      "id": 5
+      "no": 5,
+      "id": 8
     },
     {
       "expression": "l’office de tourisme",
-      "id": 6
+      "no": 6,
+      "id": 9
     },
     {
       "expression": "the tourism office",
-      "id": 6
+      "no": 6,
+      "id": 10
     },
     {
       "expression": "le centre-ville ",
-      "id": 7
+      "no": 7,
+      "id": 11
     },
     {
       "expression": "downtown, the city center",
-      "id": 7
+      "no": 7,
+      "id": 12
     },
     {
       "expression": "la gare",
-      "id": 8
+      "no": 8,
+      "id": 13
     },
     {
       "expression": "the station",
-      "id": 8
+      "no": 8,
+      "id": 14
     },
     {
       "expression": "la gare routière",
-      "id": 9
+      "no": 9,
+      "id": 15
     },
     {
       "expression": "the bus station",
-      "id": 9
+      "no": 9,
+      "id": 16
     },
     {
       "expression": "le port",
-      "id": 10
+      "no": 10,
+      "id": 17
     },
     {
       "expression": "the harbor",
-      "id": 10
+      "no": 10,
+      "id": 18
     },
     {
       "expression": "l'hôpital le plus proche",
-      "id": 11
+      "no": 11,
+      "id": 19
     },
     {
       "expression": "the nearest hospital",
-      "id": 11
+      "no": 11,
+      "id": 20
     },
     {
       "expression": "le commissariat de police",
-      "id": 12
+      "no": 12,
+      "id": 21
     },
     {
       "expression": "the police station",
-      "id": 12
+      "no": 12,
+      "id": 22
     },
     {
       "expression": "l’arrêt de bus",
-      "id": 13
+      "no": 13,
+      "id": 23
     },
     {
       "expression": "the bus stop",
-      "id": 13
+      "no": 13,
+      "id": 24
     },
     {
       "expression": "le métro",
-      "id": 14
+      "no": 14,
+      "id": 25
     },
     {
       "expression": "the tube, the underground",
-      "id": 14
+      "no": 14,
+      "id": 26
     },
     {
       "expression": "l’hôpital",
-      "id": 15
+      "no": 15,
+      "id": 27
     },
     {
       "expression": "the hospital",
-      "id": 15
+      "no": 15,
+      "id": 28
     },
     {
       "expression": "la bibliothèque municipale",
-      "id": 16
+      "no": 16,
+      "id": 29
     },
     {
       "expression": "The municipal library",
-      "id": 16
+      "no": 16,
+      "id": 30
     },
     {
       "expression": "le bureau de poste",
-      "id": 17
+      "no": 17,
+      "id": 31
     },
     {
       "expression": "the post office",
-      "id": 17
+      "no": 17,
+      "id": 32
     },
     {
       "expression": "la pelouse interdite",
-      "id": 18
+      "no": 18,
+      "id": 33
     },
     {
       "expression": "the prohibited lawn",
-      "id": 18
+      "no": 18,
+      "id": 34
     },
     {
       "expression": "la sortie",
-      "id": 19
+      "no": 19,
+      "id": 35
     },
     {
       "expression": "the exit",
-      "id": 19
+      "no": 19,
+      "id": 36
     },
     {
       "expression": "l’entrée",
-      "id": 20
+      "no": 20,
+      "id": 37
     },
     {
       "expression": "the entrance",
-      "id": 20
+      "no": 20,
+      "id": 38
     },
     {
       "expression": "Où sont les toilettes?",
-      "id": 21
+      "no": 21,
+      "id": 39
     },
     {
       "expression": "Where is the restroom",
-      "id": 21
+      "no": 21,
+      "id": 40
     },
     {
       "expression": "Où est l’arrêt d’autobus?",
-      "id": 22
+      "no": 22,
+      "id": 41
     },
     {
       "expression": "Where is the bus stop?",
-      "id": 22
+      "no": 22,
+      "id": 42
     },
     {
       "expression": "Quel est le prochain arrêt?",
-      "id": 23
+      "no": 23,
+      "id": 43
     },
     {
       "expression": "What is the next stop?",
-      "id": 23
+      "no": 23,
+      "id": 44
     },
     {
       "expression": "Est-ce mon arrêt?",
-      "id": 24
+      "no": 24,
+      "id": 45
     },
     {
       "expression": "Is this my bus stop?",
-      "id": 24
+      "no": 24,
+      "id": 46
     },
     {
       "expression": "Excusez-moi, je descends ici",
-      "id": 25
+      "no": 25,
+      "id": 47
     },
     {
       "expression": "Excuse me, I have to get off here.",
-      "id": 25
+      "no": 25,
+      "id": 48
     },
     {
       "expression": "Où est le musée?",
-      "id": 26
+      "no": 26,
+      "id": 49
     },
     {
       "expression": "Where is the museum",
-      "id": 26
+      "no": 26,
+      "id": 50
     },
     {
       "expression": "Est-ce que l’entrée est payante?",
-      "id": 27
+      "no": 27,
+      "id": 51
     },
     {
       "expression": "Is there an entrance fee?",
-      "id": 27
+      "no": 27,
+      "id": 52
     }
   ]
 }

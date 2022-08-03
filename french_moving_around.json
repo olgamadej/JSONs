@@ -1,10 +1,9 @@
-[
-  {
-    "expression": "Pardon, …",
-    "no": 1,
+{
+  "expression": "Pardon, …",
+  "no": 1,
     "id": 1
   },
-  {
+ {
     "expression": "Excuse me…",
     "no": 1,
     "id": 2
@@ -259,4 +258,4 @@
     "no": 27,
     "id": 52
   }
-]
+

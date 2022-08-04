@@ -10,14 +10,24 @@
     "id": 2
   },
   {
-    "expression": "Où est ...?",
+    "expression": "Où est...?",
     "no": 2,
     "id": 3
+  },
+  {
+    "expression": "Where is...?",
+    "no": 2,
+    "id": 53
   },
   {
     "expression": "la poste",
     "no": 3,
     "id": 4
+  },
+  {
+    "expression": "the post office",
+    "no": 2,
+    "id": 54
   },
   {
     "expression": "la banque",
@@ -258,5 +268,515 @@
     "expression": "Is there an entrance fee?",
     "no": 27,
     "id": 52
+  },
+  {
+    "expression": "Où sont les toilettes?",
+    "no": 21,
+    "id": 55
+  },
+  {
+    "expression": "Where is the restroom",
+    "no": 21,
+    "id": 56
+  },
+  {
+    "expression": "Où est l’arrêt d’autobus?",
+    "no": 22,
+    "id": 57
+  },
+  {
+    "expression": "Where is the bus stop?",
+    "no": 22,
+    "id": 58
+  },
+  {
+    "expression": "Quel est le prochain arrêt?",
+    "no": 23,
+    "id": 59
+  },
+  {
+    "expression": "What is the next stop?",
+    "no": 23,
+    "id": 60
+  },
+  {
+    "expression": "Est-ce mon arrêt?",
+    "no": 24,
+    "id": 61
+  },
+  {
+    "expression": "Is this my bus stop?",
+    "no": 24,
+    "id": 62
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 63
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 64
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 65
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 66
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 67
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 68
+  },
+  {
+    "expression": "Où sont les toilettes?",
+    "no": 21,
+    "id": 69
+  },
+  {
+    "expression": "Where is the restroom",
+    "no": 21,
+    "id": 70
+  },
+  {
+    "expression": "Où est l’arrêt d’autobus?",
+    "no": 22,
+    "id": 71
+  },
+  {
+    "expression": "Where is the bus stop?",
+    "no": 22,
+    "id": 72
+  },
+  {
+    "expression": "Quel est le prochain arrêt?",
+    "no": 23,
+    "id": 73
+  },
+  {
+    "expression": "What is the next stop?",
+    "no": 23,
+    "id": 74
+  },
+  {
+    "expression": "Est-ce mon arrêt?",
+    "no": 27,
+    "id": 75
+  },
+  {
+    "expression": "Is this my bus stop?",
+    "no": 27,
+    "id": 76
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 77
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 78
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 79
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 80
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 81
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 82
+  },
+  {
+    "expression": "Où sont les toilettes?",
+    "no": 21,
+    "id": 83
+  },
+  {
+    "expression": "Where is the restroom",
+    "no": 21,
+    "id": 84
+  },
+  {
+    "expression": "Où est l’arrêt d’autobus?",
+    "no": 22,
+    "id": 85
+  },
+  {
+    "expression": "Where is the bus stop?",
+    "no": 22,
+    "id": 86
+  },
+  {
+    "expression": "Quel est le prochain arrêt?",
+    "no": 23,
+    "id": 87
+  },
+  {
+    "expression": "What is the next stop?",
+    "no": 23,
+    "id": 88
+  },
+  {
+    "expression": "Est-ce mon arrêt?",
+    "no": 24,
+    "id": 89
+  },
+  {
+    "expression": "Is this my bus stop?",
+    "no": 24,
+    "id": 90
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 91
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 92
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 93
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 94
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 95
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 96
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 97
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 98
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 99
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 100
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 101
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 102
+  },
+  {
+    "expression": "Où sont les toilettes?",
+    "no": 21,
+    "id": 103
+  },
+  {
+    "expression": "Where is the restroom",
+    "no": 21,
+    "id": 104
+  },
+  {
+    "expression": "Où est l’arrêt d’autobus?",
+    "no": 22,
+    "id": 105
+  },
+  {
+    "expression": "Where is the bus stop?",
+    "no": 22,
+    "id": 106
+  },
+  {
+    "expression": "Quel est le prochain arrêt?",
+    "no": 23,
+    "id": 107
+  },
+  {
+    "expression": "What is the next stop?",
+    "no": 23,
+    "id": 108
+  },
+  {
+    "expression": "Est-ce mon arrêt?",
+    "no": 24,
+    "id": 109
+  },
+  {
+    "expression": "Is this my bus stop?",
+    "no": 24,
+    "id": 110
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 111
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 112
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 113
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 114
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 115
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 116
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 117
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 118
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 119
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 120
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 121
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 122
+  },
+  {
+    "expression": "Où sont les toilettes?",
+    "no": 21,
+    "id": 123
+  },
+  {
+    "expression": "Where is the restroom",
+    "no": 21,
+    "id": 124
+  },
+  {
+    "expression": "Où est l’arrêt d’autobus?",
+    "no": 22,
+    "id": 125
+  },
+  {
+    "expression": "Where is the bus stop?",
+    "no": 22,
+    "id": 126
+  },
+  {
+    "expression": "Quel est le prochain arrêt?",
+    "no": 23,
+    "id": 127
+  },
+  {
+    "expression": "What is the next stop?",
+    "no": 23,
+    "id": 128
+  },
+  {
+    "expression": "Est-ce mon arrêt?",
+    "no": 24,
+    "id": 129
+  },
+  {
+    "expression": "Is this my bus stop?",
+    "no": 24,
+    "id": 130
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 131
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 132
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 133
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 134
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 135
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 136
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 137
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 138
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 139
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 140
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 141
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 142
+  },
+  {
+    "expression": "Où sont les toilettes?",
+    "no": 21,
+    "id": 143
+  },
+  {
+    "expression": "Where is the restroom",
+    "no": 21,
+    "id": 144
+  },
+  {
+    "expression": "Où est l’arrêt d’autobus?",
+    "no": 22,
+    "id": 145
+  },
+  {
+    "expression": "Where is the bus stop?",
+    "no": 22,
+    "id": 146
+  },
+  {
+    "expression": "Quel est le prochain arrêt?",
+    "no": 23,
+    "id": 147
+  },
+  {
+    "expression": "What is the next stop?",
+    "no": 23,
+    "id": 148
+  },
+  {
+    "expression": "Est-ce mon arrêt?",
+    "no": 24,
+    "id": 149
+  },
+  {
+    "expression": "Is this my bus stop?",
+    "no": 24,
+    "id": 150
+  },
+  {
+    "expression": "Excusez-moi, je descends ici",
+    "no": 25,
+    "id": 151
+  },
+  {
+    "expression": "Excuse me, I have to get off here.",
+    "no": 25,
+    "id": 152
+  },
+  {
+    "expression": "Où est le musée?",
+    "no": 26,
+    "id": 153
+  },
+  {
+    "expression": "Where is the museum",
+    "no": 26,
+    "id": 154
+  },
+  {
+    "expression": "Est-ce que l’entrée est payante?",
+    "no": 27,
+    "id": 155
+  },
+  {
+    "expression": "Is there an entrance fee?",
+    "no": 27,
+    "id": 156
   }
 ]

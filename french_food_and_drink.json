@@ -1,0 +1,3047 @@
+[
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolat",
+    "id": 1
+  },
+  {
+    "french_expression": "un yaourt",
+    "english_expression": "yogurt",
+    "id": 2
+  },
+  {
+    "french_expression": "la purée",
+    "english_expression": "purée",
+    "id": 3
+  },
+  {
+    "french_expression": "du sucre",
+    "english_expression": "sugar",
+    "id": 53
+  },
+  {
+    "french_expression": "un gâteau",
+    "english_expression": "a cake",
+    "id": 4
+  },
+  {
+    "french_expression": "un glaçon",
+    "english_expression": "an ice cube",
+    "id": 54
+  },
+  {
+    "french_expression": "du lait",
+    "english_expression": "milk",
+    "id": 5
+  },
+  {
+    "french_expression": "une tarte",
+    "english_expression": "a tart",
+    "id": 6
+  },
+  {
+    "french_expression": "la confiture",
+    "english_expression": "jam",
+    "id": 7
+  },
+  {
+    "french_expression": "du sel",
+    "english_expression": "salt",
+    "id": 8
+  },
+  {
+    "french_expression": "la glace",
+    "english_expression": "ice cream",
+    "id": 9
+  },
+  {
+    "french_expression": "du poivre",
+    "english_expression": "pepper",
+    "id": 10
+  },
+  {
+    "french_expression": "un biscuit",
+    "english_expression": "a cookie",
+    "id": 11
+  },
+  {
+    "french_expression": "un café",
+    "english_expression": "coffee",
+    "id": 12
+  },
+  {
+    "french_expression": "le petit déjeuner",
+    "english_expression": "breakfast",
+    "id": 13
+  },
+  {
+    "french_expression": "les fruits",
+    "english_expression": "the fruit",
+    "id": 14
+  },
+  {
+    "french_expression": "les céréales",
+    "english_expression": "the cereal",
+    "id": 15
+  },
+  {
+    "french_expression": "le déjeuner",
+    "english_expression": "the dinner",
+    "id": 16
+  },
+  {
+    "french_expression": "du pain",
+    "english_expression": "bread",
+    "id": 17
+  },
+  {
+    "french_expression": "la salade",
+    "english_expression": "the salad",
+    "id": 18
+  },
+  {
+    "french_expression": "le goûter",
+    "english_expression": "afternoon tea",
+    "id": 19
+  },
+  {
+    "french_expression": "la viande",
+    "english_expression": "the meat",
+    "id": 20
+  },
+  {
+    "french_expression": "le rôti",
+    "english_expression": "the roast",
+    "id": 21
+  },
+  {
+    "french_expression": "le dîner",
+    "english_expression": "the dinner",
+    "id": 22
+  },
+  {
+    "french_expression": "du poisson",
+    "english_expression": "the fish",
+    "id": 23
+  },
+  {
+    "french_expression": "le riz",
+    "english_expression": "rice",
+    "id": 24
+  },
+  {
+    "french_expression": "une soupe",
+    "english_expression": "a soup",
+    "id": 25
+  },
+  {
+    "french_expression": "du fromage",
+    "english_expression": "cheese",
+    "id": 26
+  },
+  {
+    "french_expression": "des pâtes",
+    "english_expression": "pasta",
+    "id": 27
+  }
+]

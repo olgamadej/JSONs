@@ -1,312 +1,312 @@
 [
   {
-    "expression": "Pardon, …",
-    "english_expression": 1,
+    "french_expression": "Pardon, …",
+    "english_expression": "Excuse me…",
     "id": 5001,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Excuse me…",
-    "english_expression": 1,
+    "french_expression": "l'hôtel de ville / la mairie",
+    "english_expression": "city hall / town hall",
     "id": 5002,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Où est ...?",
-    "english_expression": 2,
+    "french_expression": "Où est ...?",
+    "english_expression": "Where is...?",
     "id": 5003,
     "subject": "moving around and travel"
   },
   {
-    "expression": "la poste",
-    "english_expression": 3,
+    "french_expression": "la poste",
+    "english_expression": "the post office",
     "id": 5004,
     "subject": "moving around and travel"
   },
   {
-    "expression": "la banque",
-    "english_expression": 4,
+    "french_expression": "la banque",
+    "english_expression": "the bank",
     "id": 5005,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the bank",
-    "english_expression": 4,
+    "french_expression": "le musée",
+    "english_expression": "the museum",
     "id": 5006,
     "subject": "moving around and travel"
   },
   {
-    "expression": "le salon de coiffure",
-    "english_expression": 5,
+    "french_expression": "le salon de coiffure",
+    "english_expression": "the hair salon",
     "id": 5007,
     "subject": "moving around and travel"
   },
   {
-    "expression": "hair salon",
-    "english_expression": 5,
+    "french_expression": "le restaurant",
+    "english_expression": "the restaurant",
     "id": 5008,
     "subject": "moving around and travel"
   },
   {
-    "expression": "l'office de tourisme",
-    "english_expression": 6,
+    "french_expression": "l'office de tourisme",
+    "english_expression": "the tourism office",
     "id": 5009,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the tourism office",
-    "english_expression": 6,
+    "french_expression": "le palais de justice",
+    "english_expression": "the courthouse",
     "id": 50010,
     "subject": "moving around and travel"
   },
   {
-    "expression": "le centre-ville ",
-    "english_expression": 7,
+    "french_expression": "le centre-ville ",
+    "english_expression": "downtown, the city center",
     "id": 50011,
     "subject": "moving around and travel"
   },
   {
-    "expression": "downtown, the city center",
-    "english_expression": 7,
+    "french_expression": "le garage",
+    "english_expression": "the garage",
     "id": 50012,
     "subject": "moving around and travel"
   },
   {
-    "expression": "la gare",
-    "english_expression": 8,
+    "french_expression": "la gare",
+    "english_expression": "the station",
     "id": 50013,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the station",
-    "english_expression": 8,
+    "french_expression": "le parc",
+    "english_expression": "the park",
     "id": 50014,
     "subject": "moving around and travel"
   },
   {
-    "expression": "la gare routière",
-    "english_expression": 9,
+    "french_expression": "la gare routière",
+    "english_expression": "the bus station",
     "id": 50015,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the bus station",
-    "english_expression": 9,
+    "french_expression": "l'église",
+    "english_expression": "the church",
     "id": 50016,
     "subject": "moving around and travel"
   },
   {
-    "expression": "le port",
-    "english_expression": 10,
+    "french_expression": "le port",
+    "english_expression": "the harbor",
     "id": 50017,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the harbor",
-    "english_expression": 10,
+    "french_expression": "la cathédrale",
+    "english_expression": "the cathedral",
     "id": 50018,
     "subject": "moving around and travel"
   },
   {
-    "expression": "l'hôpital le plus proche",
-    "english_expression": 11,
+    "french_expression": "l'hôpital le plus proche",
+    "english_expression": "the nearest hospital",
     "id": 50019,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the nearest hospital",
-    "english_expression": 11,
+    "french_expression": "le grand magasin",
+    "english_expression": "the department store",
     "id": 50020,
     "subject": "moving around and travel"
   },
   {
-    "expression": "le commissariat de police",
-    "english_expression": 12,
+    "french_expression": "le commissariat de police",
+    "english_expression": "the police station",
     "id": 50021,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the police station",
-    "english_expression": 12,
+    "french_expression": "le monument",
+    "english_expression": "the monument",
     "id": 50022,
     "subject": "moving around and travel"
   },
   {
-    "expression": "l'arrêt de bus",
-    "english_expression": 13,
+    "french_expression": "l'arrêt de bus",
+    "english_expression": "the bus stop",
     "id": 50023,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the bus stop",
-    "english_expression": 13,
+    "french_expression": "le cinéma",
+    "english_expression": "the movie theater / the cinema",
     "id": 50024,
     "subject": "moving around and travel"
   },
   {
-    "expression": "le métro",
-    "english_expression": 14,
+    "french_expression": "le métro",
+    "english_expression": "the tube, the underground",
     "id": 50025,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the tube, the underground",
-    "english_expression": 14,
+    "french_expression": "le théâtre / la salle de spectacle",
+    "english_expression": "the theater",
     "id": 50026,
     "subject": "moving around and travel"
   },
   {
-    "expression": "l'hôpital",
-    "english_expression": 15,
+    "french_expression": "l'hôpital",
+    "english_expression": "the hospital",
     "id": 50027,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the hospital",
-    "english_expression": 15,
+    "french_expression": "la tour",
+    "english_expression": "the tower",
     "id": 50028,
     "subject": "moving around and travel"
   },
   {
-    "expression": "la bibliothèque municipale",
-    "english_expression": 16,
+    "french_expression": "la bibliothèque municipale",
+    "english_expression": "The municipal library",
     "id": 50029,
     "subject": "moving around and travel"
   },
   {
-    "expression": "The municipal library",
-    "english_expression": 16,
+    "french_expression": "le centre commercial",
+    "english_expression": "the mall / shopping center",
     "id": 50030,
     "subject": "moving around and travel"
   },
   {
-    "expression": "le bureau de poste",
-    "english_expression": 17,
+    "french_expression": "le bureau de poste",
+    "english_expression": "the post office",
     "id": 50031,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the post office",
-    "english_expression": 17,
+    "french_expression": "le stade",
+    "english_expression": "the stadium",
     "id": 50032,
     "subject": "moving around and travel"
   },
   {
-    "expression": "la pelouse interdite",
-    "english_expression": 18,
+    "french_expression": "la pelouse interdite",
+    "english_expression": "the prohibited lawn",
     "id": 50033,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the prohibited lawn",
-    "english_expression": 18,
+    "french_expression": "la piscine",
+    "english_expression": "the pool",
     "id": 50034,
     "subject": "moving around and travel"
   },
   {
-    "expression": "la sortie",
-    "english_expression": 19,
+    "french_expression": "la sortie",
+    "english_expression": "the exit",
     "id": 50035,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the exit",
-    "english_expression": 19,
+    "french_expression": "la plage",
+    "english_expression": "the beach",
     "id": 50036,
     "subject": "moving around and travel"
   },
   {
-    "expression": "l'entrée",
-    "english_expression": 20,
+    "french_expression": "l'entrée",
+    "english_expression": "the entrance",
     "id": 50037,
     "subject": "moving around and travel"
   },
   {
-    "expression": "the entrance",
-    "english_expression": 20,
+    "french_expression": "le lycée",
+    "english_expression": "the high school",
     "id": 50038,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Où sont les toilettes?",
-    "english_expression": 21,
+    "french_expression": "Où sont les toilettes?",
+    "english_expression": "Where is the restroom?",
     "id": 50039,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Where is the restroom",
-    "english_expression": 21,
+    "french_expression": "l'université",
+    "english_expression": "the university",
     "id": 50040,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Où est l'arrêt d'autobus?",
-    "english_expression": 22,
+    "french_expression": "Où est l'arrêt d'autobus?",
+    "english_expression": "Where is the bus stop?",
     "id": 50041,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Where is the bus stop?",
-    "english_expression": 22,
+    "french_expression": "un bâtiment",
+    "english_expression": "a building",
     "id": 50042,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Quel est le prochain arrêt?",
-    "english_expression": 23,
+    "french_expression": "Quel est le prochain arrêt?",
+    "english_expression": "What is the next stop?",
     "id": 50043,
     "subject": "moving around and travel"
   },
   {
-    "expression": "What is the next stop?",
-    "english_expression": 23,
+    "french_expression": "le gratte-ciel",
+    "english_expression": "the skyscraper",
     "id": 50044,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Est-ce mon arrêt?",
-    "english_expression": 24,
+    "french_expression": "Est-ce mon arrêt?",
+    "english_expression": "Is this my bus stop?",
     "id": 50045,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Is this my bus stop?",
-    "english_expression": 24,
+    "french_expression": "une maison",
+    "english_expression": "a house",
     "id": 50046,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Excusez-moi, je descends ici",
-    "english_expression": 25,
+    "french_expression": "Excusez-moi, je descends ici.",
+    "english_expression": "Excuse me, I have to get off here.",
     "id": 50047,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Excuse me, I have to get off here.",
-    "english_expression": 25,
+    "french_expression": "un appartement",
+    "english_expression": "an apartment / flat",
     "id": 50048,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Où est le musée?",
-    "english_expression": 26,
+    "french_expression": "Où est le musée?",
+    "english_expression": "Where is the museum?",
     "id": 50049,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Where is the museum",
+    "french_expression": "",
     "english_expression": 26,
     "id": 50050,
     "subject": "moving around and travel"
   },
   {
-    "expression": "Est-ce que l'entrée est payante?",
+    "french_expression": "Est-ce que l'entrée est payante?",
     "english_expression": "Is there an entrance fee?",
     "id": 50051,
     "subject": "moving around and travel"
   },
   {
-    "expression": "",
+    "french_expression": "",
     "english_expression": 27,
     "id": 50052,
     "subject": "moving around and travel"

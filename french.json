@@ -294,21 +294,9 @@
     "subject": "moving around and travel"
   },
   {
-    "french_expression": "",
-    "english_expression": 26,
-    "id": 50050,
-    "subject": "moving around and travel"
-  },
-  {
     "french_expression": "Est-ce que l'entrée est payante?",
     "english_expression": "Is there an entrance fee?",
     "id": 50051,
-    "subject": "moving around and travel"
-  },
-  {
-    "french_expression": "",
-    "english_expression": 27,
-    "id": 50052,
     "subject": "moving around and travel"
   },
   {
@@ -486,98 +474,110 @@
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du chocolat",
-    "english_expression": "chocolat",
+    "french_expression": "Elle aime les asperges.",
+    "english_expression": "She likes asparagus.",
+    "id": 50052,
+    "subject": "food_and_drink"
+  },
+  {
+    "french_expression": "Tu aimes les radis?",
+    "english_expression": "Do you like radishes?",
+    "id": 50050,
+    "subject": "food_and_drink"
+  },
+  {
+    "french_expression": "Je vais prendre le ragoût de légumes.",
+    "english_expression": "I will have the vegetable stew.",
     "id": 28,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un yaourt",
-    "english_expression": "yogurt",
+    "french_expression": "Je n'aime pas les oignons.",
+    "english_expression": "I don't like onions.",
     "id": 29,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la purée",
-    "english_expression": "purée",
+    "french_expression": "Je n'aime pas le foie.",
+    "english_expression": "I don't like liver.",
     "id": 30,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du sucre",
-    "english_expression": "sugar",
+    "french_expression": "J'aime la sole frites.",
+    "english_expression": "I like fried sole.",
     "id": 31,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un gâteau",
-    "english_expression": "a cake",
+    "french_expression": "La soupe aux fruits de mer, s'il vous plaît.",
+    "english_expression": "Seafood soup, please.",
     "id": 32,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un glaçon",
-    "english_expression": "an ice cube",
+    "french_expression": "Je ne mange pas de viande.",
+    "english_expression": "I dont eat meat.",
     "id": 33,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du lait",
-    "english_expression": "milk",
+    "french_expression": "Est-ce que tu aimes les pêches?",
+    "english_expression": "Do you like peaches?",
     "id": 34,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "une tarte",
-    "english_expression": "a tart",
+    "french_expression": "J'aime l'avocat.",
+    "english_expression": "I like avocado.",
     "id": 35,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la confiture",
-    "english_expression": "jam",
+    "french_expression": "Il n'aime pas les prunes.",
+    "english_expression": "He does not like plums.",
     "id": 36,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du sel",
-    "english_expression": "salt",
+    "french_expression": "Je vais prendre des bananes.",
+    "english_expression": "I will have some bananas.",
     "id": 37,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la glace",
-    "english_expression": "ice cream",
+    "french_expression": "J'aime les céréales.",
+    "english_expression": "I like cereals.",
     "id": 38,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du poivre",
-    "english_expression": "pepper",
+    "french_expression": "Je veux du bacon.",
+    "english_expression": "I want some bacon.",
     "id": 39,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un biscuit",
-    "english_expression": "a cookie",
+    "french_expression": "Je vais prendre une omelette.",
+    "english_expression": "I will have an omelette.",
     "id": 40,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un café",
-    "english_expression": "coffee",
+    "french_expression": "Du beurre, s'il vous plaît.",
+    "english_expression": "Some butter, please.",
     "id": 41,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le petit déjeuner",
-    "english_expression": "breakfast",
+    "french_expression": "une verre de vin",
+    "english_expression": "a glass of wine",
     "id": 42,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "les fruits",
-    "english_expression": "the fruit",
+    "french_expression": "une brique de lait",
+    "english_expression": "a carton of milk",
     "id": 43,
     "subject": "food_and_drink"
   },

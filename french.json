@@ -444,7 +444,7 @@
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du poisson",
+    "french_expression": "the poisson",
     "english_expression": "the fish",
     "id": 23,
     "subject": "food_and_drink"
@@ -582,248 +582,248 @@
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "les céréales",
-    "english_expression": "the cereal",
+    "french_expression": "un veree d'eau",
+    "english_expression": "a glass of water",
     "id": 44,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le déjeuner",
-    "english_expression": "the dinner",
+    "french_expression": "une bouteille de bière",
+    "english_expression": "a bootle of beer",
     "id": 45,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du pain",
-    "english_expression": "bread",
+    "french_expression": "une tasse de café",
+    "english_expression": "a cup of coffee",
     "id": 46,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la salade",
-    "english_expression": "the salad",
+    "french_expression": "un verre de jus",
+    "english_expression": "a glass of juice",
     "id": 47,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le goûter",
-    "english_expression": "afternoon tea",
+    "french_expression": "une tasse de thé",
+    "english_expression": "a cup of tea",
     "id": 48,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la viande",
-    "english_expression": "the meat",
+    "french_expression": "les boissons",
+    "english_expression": "the drinks",
     "id": 49,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le rôti",
-    "english_expression": "the roast",
+    "french_expression": "la bière",
+    "english_expression": "the beer",
     "id": 50,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le dîner",
-    "english_expression": "the dinner",
+    "french_expression": "le cognac",
+    "english_expression": "the cognac",
     "id": 51,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du poisson",
-    "english_expression": "the fish",
+    "french_expression": "le vin rouge",
+    "english_expression": "the red wine",
     "id": 52,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le riz",
-    "english_expression": "rice",
+    "french_expression": "le vin blanc",
+    "english_expression": "the white wine",
     "id": 55,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "une soupe",
-    "english_expression": "a soup",
+    "french_expression": "la liqueur",
+    "english_expression": "the liquor",
     "id": 56,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du fromage",
-    "english_expression": "cheese",
+    "french_expression": "la champagne",
+    "english_expression": "the champagne",
     "id": 57,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "des pâtes",
-    "english_expression": "pasta",
+    "french_expression": "le cocktail",
+    "english_expression": "the cocktail",
     "id": 58,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du chocolat",
-    "english_expression": "chocolat",
+    "french_expression": "la limonade",
+    "english_expression": "the limonade",
     "id": 59,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un yaourt",
-    "english_expression": "yogurt",
+    "french_expression": "l'eau (fem.)",
+    "english_expression": "water",
     "id": 60,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la purée",
-    "english_expression": "purée",
+    "french_expression": "le jus",
+    "english_expression": "the juice",
     "id": 61,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du sucre",
-    "english_expression": "sugar",
+    "french_expression": "le martini",
+    "english_expression": "the martini",
     "id": 62,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un gâteau",
-    "english_expression": "a cake",
+    "french_expression": "le café",
+    "english_expression": "the coffee",
     "id": 63,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un glaçon",
-    "english_expression": "an ice cube",
+    "french_expression": "le thé",
+    "english_expression": "the tea",
     "id": 64,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du lait",
-    "english_expression": "milk",
+    "french_expression": "la prune",
+    "english_expression": "the plum",
     "id": 65,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "une tarte",
-    "english_expression": "a tart",
+    "french_expression": "la cerise",
+    "english_expression": "the cherry",
     "id": 66,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la confiture",
-    "english_expression": "jam",
+    "french_expression": "le raisin",
+    "english_expression": "the grape",
     "id": 67,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du sel",
-    "english_expression": "salt",
+    "french_expression": "la fraise",
+    "english_expression": "the strawberry",
     "id": 68,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la glace",
-    "english_expression": "ice cream",
+    "french_expression": "les fruits secs",
+    "english_expression": "the dried fruits",
     "id": 69,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du poivre",
-    "english_expression": "pepper",
+    "french_expression": "le pruneau",
+    "english_expression": "the plum",
     "id": 70,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un biscuit",
-    "english_expression": "a cookie",
+    "french_expression": "la prune séchée",
+    "english_expression": "the dried plum",
     "id": 71,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "un café",
-    "english_expression": "coffee",
+    "french_expression": "la macédoine de fruits",
+    "english_expression": "the fruit salad",
     "id": 72,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le petit déjeuner",
-    "english_expression": "breakfast",
+    "french_expression": "la rhubarbe",
+    "english_expression": "the rhubarb",
     "id": 73,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "les fruits",
-    "english_expression": "the fruit",
+    "french_expression": "l'abricot (masc.)",
+    "english_expression": "the apricot",
     "id": 74,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "les céréales",
-    "english_expression": "the cereal",
+    "french_expression": "le melon",
+    "english_expression": "the melon",
     "id": 75,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le déjeuner",
-    "english_expression": "the dinner",
+    "french_expression": "la framboise",
+    "english_expression": "the raspberry",
     "id": 76,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du pain",
-    "english_expression": "bread",
+    "french_expression": "le citron vert",
+    "english_expression": "the lime",
     "id": 77,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la salade",
-    "english_expression": "the salad",
+    "french_expression": "la clémentine",
+    "english_expression": "the clementine",
     "id": 78,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le goûter",
-    "english_expression": "afternoon tea",
+    "french_expression": "le pamplemousse",
+    "english_expression": "the grapefruit",
     "id": 79,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "la viande",
-    "english_expression": "the meat",
+    "french_expression": "la figue",
+    "english_expression": "the fig",
     "id": 80,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le rôti",
-    "english_expression": "the roast",
+    "french_expression": "le cassis",
+    "english_expression": "the blackcurrant",
     "id": 81,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le dîner",
-    "english_expression": "the dinner",
+    "french_expression": "la groseille à maquereau",
+    "english_expression": "the gooseberry",
     "id": 82,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du poisson",
-    "english_expression": "the fish",
+    "french_expression": "le saumon",
+    "english_expression": "the salmon",
     "id": 83,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "le riz",
-    "english_expression": "rice",
+    "french_expression": "",
+    "english_expression": "",
     "id": 84,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "une soupe",
-    "english_expression": "a soup",
+    "french_expression": "",
+    "english_expression": "",
     "id": 85,
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du fromage",
-    "english_expression": "cheese",
+    "french_expression": "",
+    "english_expression": "",
     "id": 86,
     "subject": "food_and_drink"
   },

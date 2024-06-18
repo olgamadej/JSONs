@@ -5,32 +5,32 @@
     "spanish_expression": "pequeño / pequeña / pequeños",
     "id": 50001,
     "subject": ["adjectives", "people", "descriptions"]
-  },    
+  },
   {
     "french_expression": "petits animaux",
     "english_expression": "small animals",
     "spanish_expression": "animales pequeños",
     "id": 50002,
     "subject": "moving around and travel"
-  }, 
+  },
   {
     "french_expression": "Pardon, …",
     "english_expression": "Excuse me…",
     "id": 50003,
     "subject": "moving around and travel"
-  }, 
+  },
   {
     "french_expression": "Pardon, …",
     "english_expression": "Excuse me…",
     "id": 50004,
     "subject": "moving around and travel"
-  }, 
+  },
   {
     "french_expression": "Pardon, …",
     "english_expression": "Excuse me…",
     "id": 50005,
     "subject": "moving around and travel"
-  }, 
+  },
   {
     "french_expression": "Pardon, …",
     "english_expression": "Excuse me…",
@@ -334,8 +334,57 @@
   {
     "french_expression": "du chocolat",
     "english_expression": "chocolat",
-    "id": 1,
+    "id": 101,
     "subject": "food_and_drink"
+  },
+  {
+    "french_expression": "Quel est ton dessert préféré?",
+    "english_expression": "What is your favourite dessert?",
+    "spanish_expression": "¿Cuál es su postre favorito?",
+    "id": 102,
+    "subjects": ["food_and_drink", "questions", "easy"]
+  },
+  {
+    "french_expression": "Aimes-tu du chocolat, un gâteau, une tarte ou un biscuit ?",
+    "english_expression": "Do you like chocolate, cakes, tarts or biscuits?",
+    "spanish_expression": "¿Le gusta el chocolate, los pasteles, las tartas o las galletas?",
+    "id": 103,
+    "subjects": ["food_and_drink", "questions", "easy"]
+  },
+  {
+    "french_expression": "Qu'est-ce que tu manges pour le petit déjeuner?",
+    "english_expression": "What do you eat for breakfast?",
+    "spanish_expression": "",
+    "id": 104,
+    "subjects": ["food_and_drink", "questions", "easy"]
+  },
+  {
+    "french_expression": "Prends-tu du café, du lait, des céréales ou des fruits au petit déjeuner?",
+    "english_expression": "Do you have coffee, milk, cereal or some fruit for breakfast?",
+    "spanish_expression": "¿Desayunas café, leche, cereales o algo de fruta?",
+    "id": 105,
+    "subjects": ["food_and_drink", "questions", "easy"]
+  },
+  {
+    "french_expression": "Aimes-tu manger du chocolat noir ou au lait?",
+    "english_expression": "Do you like to eat dark or milk chocolate?",
+    "spanish_expression": "",
+    "id": 106,
+    "subjects": ["food_and_drink", "questions", "easy"]
+  },
+  {
+    "french_expression": "Quel type de chocolat préfères-tu pour le dessert?",
+    "english_expression": "What type of chocolate do you like to have for dessert?",
+    "spanish_expression": "",
+    "id": 107,
+    "subjects": ["food_and_drink", "questions", "easy"]
+  },
+  {
+    "french_expression": "Manges-tu souvent du chocolat en guise de collation?",
+    "english_expression": "",
+    "spanish_expression": "¿Come chocolate a menudo como tentempié?",
+    "id": ,
+    "subjects": []
   },
   {
     "french_expression": "un yaourt",

@@ -1,13 +1,15 @@
 [
   {
-    "french_expression": "petit / petite/ petits",
-    "english_expression": "small / short",
+    "french_expression": "petit / petite / petits",
+    "english_expression": "small",
+    "spanish_expression": "pequeño / pequeña / pequeños",
     "id": 50001,
-    "subject": "moving around and travel"
+    "subject": ["adjectives", "people", "descriptions"]
   },    
   {
-    "french_expression": "Pardon, …",
-    "english_expression": "Excuse me…",
+    "french_expression": "petits animaux",
+    "english_expression": "small animals",
+    "spanish_expression": "animales pequeños",
     "id": 50002,
     "subject": "moving around and travel"
   }, 

@@ -342,50 +342,51 @@
     "english_expression": "What is your favourite dessert?",
     "spanish_expression": "¿Cuál es su postre favorito?",
     "id": 102,
-    "subjects": ["food_and_drink", "questions", "easy"]
+    "subject": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Aimes-tu du chocolat, un gâteau, une tarte ou un biscuit ?",
     "english_expression": "Do you like chocolate, cakes, tarts or biscuits?",
     "spanish_expression": "¿Le gusta el chocolate, los pasteles, las tartas o las galletas?",
     "id": 103,
-    "subjects": ["food_and_drink", "questions", "easy"]
+    "subject": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Qu'est-ce que tu manges pour le petit déjeuner?",
     "english_expression": "What do you eat for breakfast?",
     "spanish_expression": "",
     "id": 104,
-    "subjects": ["food_and_drink", "questions", "easy"]
+    "subject": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Prends-tu du café, du lait, des céréales ou des fruits au petit déjeuner?",
     "english_expression": "Do you have coffee, milk, cereal or some fruit for breakfast?",
     "spanish_expression": "¿Desayunas café, leche, cereales o algo de fruta?",
     "id": 105,
-    "subjects": ["food_and_drink", "questions", "easy"]
+    "subject": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Aimes-tu manger du chocolat noir ou au lait?",
     "english_expression": "Do you like to eat dark or milk chocolate?",
     "spanish_expression": "",
     "id": 106,
-    "subjects": ["food_and_drink", "questions", "easy"]
+    "subject": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Quel type de chocolat préfères-tu pour le dessert?",
     "english_expression": "What type of chocolate do you like to have for dessert?",
     "spanish_expression": "",
     "id": 107,
-    "subjects": ["food_and_drink", "questions", "easy"]
+    "subject": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Manges-tu souvent du chocolat en guise de collation?",
-    "english_expression": "",
+    "english_expression": "Do you often eat chocolate as a snack?",
     "spanish_expression": "¿Come chocolate a menudo como tentempié?",
-    "id": ,
-    "subjects": []
+    "id": 108,
+    "subject": []
   },
+
   {
     "french_expression": "un yaourt",
     "english_expression": "yogurt",
@@ -915,14 +916,14 @@
     "subject": "food_and_drink"
   },
   {
-    "french_expression": "du chocolat",
-    "english_expression": "chocolat",
-    "id": 88,
-    "subject": "food_and_drink"
+    "french_expression": "l'adolescence (f.)",
+    "english_expression": "adolescence",
+    "id": 201,
+    "subject": "relationships"
   },
   {
-    "french_expression": "un yaourt",
-    "english_expression": "yogurt",
+    "french_expression": "l'âge de raison (m.)",
+    "english_expression": "grown-up age",
     "id": 89,
     "subject": "food_and_drink"
   },

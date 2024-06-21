@@ -14,28 +14,28 @@
     "subject": ["adjectives", "animals", "nature", "descriptions", "easy"]
   },
   {
-    "french_expression": "Pardon, …",
-    "english_expression": "Excuse me…",
+    "french_expression": "J'ai un petit chien.",
+    "english_expression": "I have a small dog.",
     "id": 3,
-    "subject": ["moving around", "travel"]
+    "subject": ["animals", "adjectives", "avoir", "easy"]
   },
   {
-    "french_expression": "Pardon, …",
-    "english_expression": "Excuse me…",
+    "french_expression": "Elle porte une petite robe rouge.",
+    "english_expression": "She is wearing a little red dress.",
     "id": 4,
-    "subject": ["moving around and travel"]
+    "subject": ["people", "adjectives", "easy"]
   },
   {
-    "french_expression": "Pardon, …",
-    "english_expression": "Excuse me…",
+    "french_expression": "Les enfants jouent avec leurs petits jouets.",
+    "english_expression": "The children are playing with their small toys.",
     "id": 5,
-    "subject": ["moving around and travel"]
+    "subject": ["people", "adjectives", "easy"]
   },
   {
-    "french_expression": "Pardon, …",
-    "english_expression": "Excuse me…",
+    "french_expression": "Nousavons acheté des petites fleurs pour le jardin.",
+    "english_expression": "We bought some small flowers for the garden.",
     "id": 6,
-    "subject": ["moving around and travel"]
+    "subject": ["people", "adjectives", "medium", "past", "nature"]
   },
   {
     "french_expression": "l'hôtel de ville / la mairie",
@@ -525,7 +525,7 @@
     "subject": ["food_and_drink"]
   },
   {
-    "french_expression": "the poisson",
+    "french_expression": "le poisson",
     "english_expression": "the fish",
     "id": 87,
     "subject": ["food_and_drink"]
@@ -891,28 +891,28 @@
     "subject": ["food_and_drink"]
   },
   {
-    "french_expression": "",
-    "english_expression": "",
+    "french_expression": "Il y a un petit café au coin de la rue.",
+    "english_expression": "There is a small café at the corner of the street",
     "id": 148,
-    "subject": ["food_and_drink"]
+    "subject": ["food_and_drink", "adjectives", "places", "easy"]
   },
   {
-    "french_expression": "",
-    "english_expression": "",
+    "french_expression": "Elle a une petite voix douce.",
+    "english_expression": "She has a small, sweet voice.",
     "id": 149,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "easy"]
   },
   {
-    "french_expression": "",
-    "english_expression": "",
+    "french_expression": "Les petits oiseaux chantent dans les arbres.",
+    "english_expression": "The little birds are singing in the trees.",
     "id": 150,
-    "subject": ["food_and_drink"]
+    "subject": ["adjectives", "animals", "nature", "easy"]
   },
   {
-    "french_expression": "des pâtes",
-    "english_expression": "pasta",
+    "french_expression": "Ils ont adopté deux petits chatons.",
+    "english_expression": "They adopted two small kittens.",
     "id": 151,
-    "subject": ["food_and_drink"]
+    "subject": ["adjectives", "animals", "medium"]
   },
   {
     "french_expression": "l'adolescence (f.)",
@@ -957,350 +957,350 @@
     "subject": ["relationships"]
   },
   {
-    "french_expression": "une tarte",
-    "english_expression": "a tart",
+    "french_expression": "Elle prépare de petites tartes aux fruits.",
+    "english_expression": "She is making small fruit taarts.",
     "id": 159,
-    "subject": ["food_and_drink"]
+    "subject": ["food_and_drink", "adjectives", "easy"]
   },
   {
-    "french_expression": "la confiture",
-    "english_expression": "jam",
+    "french_expression": "Le petit garçon court dans le parc.",
+    "english_expression": "The little boy is running in the park.",
     "id": 160,
     "subject": ["food_and_drink"]
   },
   {
-    "french_expression": "du sel",
-    "english_expression": "salt",
+    "french_expression": "Je m'abandonne à ces leurs d'autrefois",
+    "english_expression": "I give myself up to the glimmers of the past.",
     "id": 161,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "descriptions", "past", "medium"]
   },
   {
-    "french_expression": "la glace",
-    "english_expression": "ice cream",
+    "french_expression": "un gendre solidaire",
+    "english_expression": "A supportive son-in-law",
     "id": 162,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "descriptions", "adjectives", "medium"]
   },
   {
-    "french_expression": "du poivre",
-    "english_expression": "pepper",
+    "french_expression": "des jumeaux identiques / des jumelles identiques",
+    "english_expression": "Identical twins",
     "id": 163,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "un biscuit",
-    "english_expression": "a cookie",
+    "french_expression": "une maman aimante",
+    "english_expression": "a loving mom",
     "id": 164,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "un café",
-    "english_expression": "coffee",
+    "french_expression": "une mère attentionnée",
+    "english_expression": "a caring mother",
     "id": 165,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "le petit déjeuner",
-    "english_expression": "breakfast",
+    "french_expression": "un neveu joueur",
+    "english_expression": "a playful nephew",
     "id": 166,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "les fruits",
-    "english_expression": "the fruit",
+    "french_expression": "une nièce curieuse",
+    "english_expression": "a curious niece",
     "id": 167,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "les céréales",
-    "english_expression": "the cereal",
+    "french_expression": "un oncle amusant",
+    "english_expression": "a fun uncle",
     "id": 168,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "le déjeuner",
-    "english_expression": "the dinner",
+    "french_expression": "un papa protecteur",
+    "english_expression": "a protective dad",
     "id": 169,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "du pain",
-    "english_expression": "bread",
+    "french_expression": "des parents solidaires",
+    "english_expression": "supportive parents",
     "id": 170,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "la salade",
-    "english_expression": "the salad",
+    "french_expression": "un père strict",
+    "english_expression": "a strict father",
     "id": 171,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "le goûter",
-    "english_expression": "afternoon tea",
+    "french_expression": "une sœur aimante",
+    "english_expression": "a loving sister",
     "id": 172,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "la viande",
-    "english_expression": "the meat",
+    "french_expression": "une tante généreuse",
+    "english_expression": "a generous aunt",
     "id": 173,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "le rôti",
-    "english_expression": "the roast",
+    "french_expression": "un beau-fils travailleur",
+    "english_expression": "a hardworking stepson",
     "id": 174,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
-    "french_expression": "le dîner",
-    "english_expression": "the dinner",
+    "french_expression": "une belle-fille diligente",
+    "english_expression": "a diligent stepdaughter",
     "id": 175,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
-    "french_expression": "du poisson",
-    "english_expression": "the fish",
+    "french_expression": "un beau-frère solidaire",
+    "english_expression": "a supportive brother-in-law",
     "id": 176,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
-    "french_expression": "le riz",
-    "english_expression": "rice",
+    "french_expression": "une belle-sœur attentionnée",
+    "english_expression": "a caring sister-in-law",
     "id": 177,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
-    "french_expression": "une soupe",
-    "english_expression": "a soup",
+    "french_expression": "un beau-père sage",
+    "english_expression": "a wise stepfather",
     "id": 178,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
-    "french_expression": "du fromage",
-    "english_expression": "cheese",
+    "french_expression": "une belle-mère gentille",
+    "english_expression": "a kind stepmother",
     "id": 179,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
-    "french_expression": "des pâtes",
-    "english_expression": "pasta",
+    "french_expression": "un ami de confiance / un copain de confiance",
+    "english_expression": "a trustworthy friend (m.)",
     "id": 180,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "du chocolat",
-    "english_expression": "chocolat",
+    "french_expression": "une amie solidaire / une copine solidaire",
+    "english_expression": "a supportive friend (f.)",
     "id": 181,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "un yaourt",
-    "english_expression": "yogurt",
+    "french_expression": "des amoureux aimants",
+    "english_expression": "loving sweethearts",
     "id": 182,
-    "subject": ["food_and_drink"]
+    "subject": ["people", "adjectives", "descriptions", "medium"]
   },
   {
-    "french_expression": "la purée",
-    "english_expression": "purée",
+    "french_expression": "",
+    "english_expression": "intimate relationships",
     "id": 183,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du sucre",
-    "english_expression": "sugar",
+    "english_expression": "a painful breakup",
     "id": 184,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "un gâteau",
-    "english_expression": "a cake",
+    "english_expression": "a difficult separation",
     "id": 185,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "un glaçon",
-    "english_expression": "an ice cube",
+    "english_expression": "a happy second marriage",
     "id": 186,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du lait",
-    "english_expression": "milk",
+    "english_expression": "a recognized civil union",
     "id": 187,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "une tarte",
-    "english_expression": "a tart",
+    "english_expression": "a rebellious teenager",
     "id": 188,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "la confiture",
-    "english_expression": "jam",
+    "english_expression": "a responsible adult",
     "id": 189,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du sel",
-    "english_expression": "salt",
+    "english_expression": "a single person",
     "id": 190,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "la glace",
-    "english_expression": "ice cream",
+    "english_expression": "a happy couple",
     "id": 191,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du poivre",
-    "english_expression": "pepper",
+    "english_expression": "a kind lady",
     "id": 192,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "un biscuit",
-    "english_expression": "a cookie",
+    "english_expression": "a young lady",
     "id": 193,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "un café",
-    "english_expression": "coffee",
+    "english_expression": "a palyful child",
     "id": 194,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "le petit déjeuner",
-    "english_expression": "breakfast",
+    "english_expression": "a supportive spouse",
     "id": 195,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "les fruits",
-    "english_expression": "the fruit",
+    "english_expression": "a caring woman",
     "id": 196,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "les céréales",
-    "english_expression": "the cereal",
+    "english_expression": "an engaged fiancé",
     "id": 197,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "le déjeuner",
-    "english_expression": "the dinner",
+    "english_expression": "a young boy",
     "id": 198,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du pain",
-    "english_expression": "bread",
+    "english_expression": "a strong man",
     "id": 199,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "la salade",
-    "english_expression": "the salad",
+    "english_expression": "a charming young girl",
     "id": 200,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "le goûter",
-    "english_expression": "afternoon tea",
+    "english_expression": "a handsome young man",
     "id": 201,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "la viande",
-    "english_expression": "the meat",
+    "english_expression": "a loving husband",
     "id": 202,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "le rôti",
-    "english_expression": "the roast",
+    "english_expression": "a joyful groom",
     "id": 203,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "le dîner",
-    "english_expression": "the dinner",
+    "english_expression": "a healthy newborn",
     "id": 204,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du poisson",
-    "english_expression": "the fish",
+    "english_expression": "the newlyweds",
     "id": 205,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "le riz",
-    "english_expression": "rice",
+    "english_expression": "a curious toddler",
     "id": 206,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "une soupe",
-    "english_expression": "a soup",
+    "english_expression": "a grieving widower",
     "id": 207,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du fromage",
-    "english_expression": "cheese",
+    "english_expression": "a grieving widow",
     "id": 208,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "des pâtes",
-    "english_expression": "pasta",
+    "english_expression": "doing the homework",
     "id": 209,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du chocolat",
-    "english_expression": "chocolat",
+    "english_expression": "making the dinner",
     "id": 210,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "un yaourt",
-    "english_expression": "yogurt",
+    "english_expression": "doing the laundry",
     "id": 211,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "la purée",
-    "english_expression": "purée",
+    "english_expression": "commuting",
     "id": 212,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du sucre",
-    "english_expression": "sugar",
+    "english_expression": "doing the dishes",
     "id": 213,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "un gâteau",
-    "english_expression": "a cake",
+    "english_expression": "doing his/her work",
     "id": 214,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "un glaçon",
-    "english_expression": "an ice cube",
+    "english_expression": "making dinner",
     "id": 215,
     "subject": ["food_and_drink"]
   },
   {
     "french_expression": "du lait",
-    "english_expression": "milk",
+    "english_expression": "doing the laun",
     "id": 216,
     "subject": ["food_and_drink"]
   },

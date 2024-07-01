@@ -45,8 +45,98 @@
   },
   {
     "french_expression": "Où est ...?",
-    "english_expression": "Where is...?",
+    "english_expression": "Where is...? / Where did you... ?",
     "id": 8,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Où est-tu allé(e) en vacances?",
+    "english_expression": "Where did you go on vacation?",
+    "id": 8.1,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Avec qui es-tu parti(e)?",
+    "english_expression": "With whom did you go?",
+    "id": 8.2,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Comment était ton voyage?",
+    "english_expression": "How was your trip?",
+    "id": 8.3,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Qu'as-tu fait pendant tes vacances?",
+    "english_expression": "What did you do during your vacation?",
+    "id": 8.4,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Quel a été ton moment préféré?",
+    "english_expression": "What was your favorite moment?",
+    "id": 8.5,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Combien de temps es-tu resté(e) là-bas?",
+    "english_expression": "How long did you stay there?",
+    "id": 8.6,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "As-tu visité des endroits intéressants?",
+    "english_expression": "Where is...?",
+    "id": 8.7,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "As-tu goûté des plats locaux?",
+    "english_expression": "Where is...?",
+    "id": 8.8,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Où est ...?",
+    "english_expression": "Where is...?",
+    "id": 8.9,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Où est ...?",
+    "english_expression": "Where is...?",
+    "id": 8.11,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Où est ...?",
+    "english_expression": "Where is...?",
+    "id": 8.12,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Où est ...?",
+    "english_expression": "Where is ... ?",
+    "id": 8.13,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Où est ...?",
+    "english_expression": "Where is...?",
+    "id": 8.14,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Où est ...?",
+    "english_expression": "Where is...?",
+    "id": 8.15,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Où est ...?",
+    "english_expression": "Where is...?",
+    "id": 8.16,
     "subject": ["moving around and travel"]
   },
   {

@@ -1,4 +1,5 @@
 [
+
   {
     "french_expression": "petit / petite / petits",
     "english_expression": "small",
@@ -104,39 +105,132 @@
     "subject": ["moving around and travel"]
   },
   {
-    "french_expression": "Où est ...?",
-    "english_expression": "Where is...?",
+    "french_expression": "Recommanderais-tu cette destination?",
+    "english_expression": "Would you recommend this destination?",
     "id": 8.11,
     "subject": ["moving around and travel"]
   },
   {
-    "french_expression": "Où est ...?",
-    "english_expression": "Where is...?",
+    "french_expression": "Je suis allé(e) en Italie, à Rome.",
+    "english_expression": "I went to Italy, Rome.",
     "id": 8.12,
     "subject": ["moving around and travel"]
   },
   {
-    "french_expression": "Où est ...?",
-    "english_expression": "Where is ... ?",
+    "french_expression": "Je suis allé(e) en Espagne, à Barcelone.",
+    "english_expression": "I went to Spain, to Barcelona.",
     "id": 8.13,
     "subject": ["moving around and travel"]
   },
   {
-    "french_expression": "Où est ...?",
-    "english_expression": "Where is...?",
+    "french_expression": "Je suis parti(e) avec ma famille.",
+    "english_expression": "I went with my family.",
     "id": 8.14,
     "subject": ["moving around and travel"]
   },
   {
-    "french_expression": "Où est ...?",
-    "english_expression": "Where is...?",
+    "french_expression": "Je suis parti(e) avec des amis.",
+    "english_expression": "I went with friends.",
     "id": 8.15,
     "subject": ["moving around and travel"]
   },
   {
-    "french_expression": "Où est ...?",
-    "english_expression": "Where is...?",
+    "french_expression": "Mon voyage était fantastique, plein de découvertes et de bons moments.",
+    "english_expression": "My trip was fantastic, full of discoveries and good times",
     "id": 8.16,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Le voyage était un peu fatigant mais très enrichissant.",
+    "english_expression": "The trip was a bit tiring but very rewarding.",
+    "id": 8.17,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "J'ai visité plusieurs musées et monuments historiques.",
+    "english_expression": "I visited several museums and historical monuments.",
+    "id": 8.18,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "J'ai passé beaucoup de temps à la plage et fait des sports nautiques.",
+    "english_expression": "I spent a lot of time at the beach and did water sports.",
+    "id": 8.19,
+    "subject": ["moving around and travel"]
+  },{
+    "french_expression": "Mon moment préféré a été la visite du Colisée à Rome.",
+    "english_expression": "My favorite moment was visiting the Colosseum in Rome.",
+    "id": 8.20,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "J'ai adoré le concert en plein air à Barcelone.",
+    "english_expression": "I loved the open-air concert in Barcelona.",
+    "id": 8.21,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Je suis resté(e) là-bas pendant deux semaines.",
+    "english_expression": "I stayed there for two weeks.",
+    "id": 8.22,
+    "subject": ["moving around and travel"]
+  },{
+    "french_expression": "J'ai passé dix jours là-bas.",
+    "english_expression": "I spent ten days there.",
+    "id": 8.23,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "J'ai visité le Vatican et la chapelle Sixtine.",
+    "english_expression": "I visited the Vatican and the Sistine Chapel.",
+    "id": 8.24,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "Oui, j'ai exploré le quartier gothique et le parc Güell à Barcelone.",
+    "english_expression": "I explored the Gothic Quarter and Park Güell in Barcelona.",
+    "id": 8.25,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "J'ai goûté la pizza et les pâtes italiennes.",
+    "english_expression": "I tasted Italian pizza and pasta.",
+    "id": 8.26,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "J'ai essayé la paella et les tapas espagnoles.",
+    "english_expression": "I tried Spanish paella and tapas.",
+    "id": 8.27,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "",
+    "english_expression": "",
+    "id": 8.28,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "",
+    "english_expression": "",
+    "id": 8.29,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "",
+    "english_expression": "",
+    "id": 8.30,
+    "subject": ["moving around and travel"]
+  },
+  {
+    "french_expression": "",
+    "english_expression": "",
+    "id": 8.31,
+    "subject": ["moving around and travel"]
+  },{
+    "french_expression": "",
+    "english_expression": "",
+    "id": 8.32,
     "subject": ["moving around and travel"]
   },
   {

@@ -1,17 +1,135 @@
 [
-
+  {
+    "french_expression": "devenir",
+    "english_expression": "to become",
+    "spanish_expression": "",
+    "id": 0.1,
+    "subject": ["verbs", "verbs of change"]
+  },
+  {
+    "french_expression": "revenir",
+    "english_expression": "to come back",
+    "spanish_expression": "",
+    "id": 0.2,
+    "subject": ["adjectives", "people", "descriptions"]
+  },
+  {
+    "french_expression": "Reviens vite!",
+    "english_expression": "Come back soon!",
+    "spanish_expression": "",
+    "id": 0.3,
+    "subject": ["l’impératif", "", "descriptions"]
+  },
+  {
+    "french_expression": "Son nom m'est revenu cinq minutes après.",
+    "english_expression": "His name came back to me five minutes later.",
+    "spanish_expression": "",
+    "id": 0.4,
+    "subject": ["le passé composé", "", ""]
+  },
+  {
+    "french_expression": "Ça revient au même.",
+    "english_expression": "It comes to the same thing.",
+    "spanish_expression": "",
+    "id": 0.5,
+    "subject": ["adjectives", "people", "descriptions"]
+  },
+  {
+    "french_expression": "Ça revient cher.",
+    "english_expression": "It costs a lot",
+    "spanish_expression": "",
+    "id": 0.6,
+    "subject": ["adjectives", "shopping", ""]
+  },
+  {
+    "french_expression": "Je n'en revient pas!",
+    "english_expression": "I can't get over it!",
+    "spanish_expression": "",
+    "id": 0.7,
+    "subject": ["emotions", "", "descriptions"]
+  },
+  {
+    "french_expression": "revenir sur ses pas",
+    "english_expression": "to retrace one's steps",
+    "spanish_expression": "",
+    "id": 0.8,
+    "subject": ["phrases", "", ""]
+  },
+  {
+    "french_expression": "Quand est-ce qu'il revient?",
+    "english_expression": "When is he coming back?",
+    "spanish_expression": "",
+    "id": 0.9,
+    "subject": ["", "people", ""]
+  },
+  {
+    "french_expression": "revenir de quelque part",
+    "english_expression": "to come back from somewhere",
+    "spanish_expression": "",
+    "id": 0.11,
+    "subject": ["travel", "", ""]
+  },
+  {
+    "french_expression": "Elle est revenue du Japon le mois dernier.",
+    "english_expression": "She got back from Japan last month.",
+    "spanish_expression": "",
+    "id": 0.12,
+    "subject": ["le passé composé", "travel", ""]
+  },
+  {
+    "french_expression": "revenir de loin",
+    "english_expression": "to have made a spectacular recovery",
+    "spanish_expression": "",
+    "id": 0.13,
+    "subject": ["phrases", "health", ""]
+  },
+  {
+    "french_expression": "revenir à qch",
+    "english_expression": "to return to sth / to go back to sth",
+    "spanish_expression": "",
+    "id": 0.14,
+    "subject": ["phrases", "work", "descriptions"]
+  },
+  {
+    "french_expression": "revenir de qch",
+    "english_expression": "to recover from sth / to be over sth",
+    "spanish_expression": "",
+    "id": 0.15,
+    "subject": ["health", "phrases", "emotions"]
+  },
+  {
+    "french_expression": "Il est revenu de sa période bio.",
+    "english_expression": "He's got over his organic phase.",
+    "spanish_expression": "",
+    "id": 0.16,
+    "subject": ["le passé composé", "people", "phrases", "emotions"]
+  },
+  {
+    "french_expression": "être revenu de tout",
+    "english_expression": "to have seen it all",
+    "spanish_expression": "",
+    "id": 0.17,
+    "subject": ["phrases", "people", "emotions"]
+  },
+  {
+    "french_expression": "revenir sur qch",
+    "english_expression": "to go back over sth / to go back on sth",
+    "spanish_expression": "",
+    "id": 0.18,
+    "subject": ["phrases", "people", "emotions"]
+  },
   {
     "french_expression": "petit / petite / petits",
     "english_expression": "small",
     "spanish_expression": "pequeño / pequeña / pequeños",
-    "id": 1,
+    "id": 2,
     "subject": ["adjectives", "people", "descriptions"]
   },
   {
     "french_expression": "petits animaux",
     "english_expression": "small animals",
     "spanish_expression": "animales pequeños",
-    "id": 2,
+    "id": 2.1,
     "subject": ["adjectives", "animals", "nature", "descriptions", "easy"]
   },
   {

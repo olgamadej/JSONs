@@ -11,615 +11,618 @@
     "english_expression": "to come back",
     "spanish_expression": "",
     "id": 0.2,
-    "subject": ["adjectives", "people", "descriptions"]
+    "subjects": ["adjectives", "people", "descriptions"]
   },
   {
     "french_expression": "Reviens vite!",
     "english_expression": "Come back soon!",
     "spanish_expression": "",
     "id": 0.3,
-    "subject": ["l’impératif", "", "descriptions"]
+    "subjects": ["l’impératif", "", "descriptions"]
   },
   {
     "french_expression": "Son nom m'est revenu cinq minutes après.",
     "english_expression": "His name came back to me five minutes later.",
     "spanish_expression": "",
     "id": 0.4,
-    "subject": ["le passé composé", "", ""]
+    "subjects": ["le passé composé", "", ""]
   },
   {
     "french_expression": "Ça revient au même.",
     "english_expression": "It comes to the same thing.",
     "spanish_expression": "",
     "id": 0.5,
-    "subject": ["adjectives", "people", "descriptions"]
+    "subjects": ["adjectives", "people", "descriptions"]
   },
   {
     "french_expression": "Ça revient cher.",
     "english_expression": "It costs a lot",
     "spanish_expression": "",
     "id": 0.6,
-    "subject": ["adjectives", "shopping", ""]
+    "subjects": ["adjectives", "shopping", ""]
   },
   {
     "french_expression": "Je n'en revient pas!",
     "english_expression": "I can't get over it!",
     "spanish_expression": "",
     "id": 0.7,
-    "subject": ["emotions", "", "descriptions"]
+    "subjects": ["emotions", "", "descriptions"]
   },
   {
     "french_expression": "revenir sur ses pas",
     "english_expression": "to retrace one's steps",
     "spanish_expression": "",
     "id": 0.8,
-    "subject": ["phrases", "", ""]
+    "subjects": ["phrases", "", ""]
   },
   {
     "french_expression": "Quand est-ce qu'il revient?",
     "english_expression": "When is he coming back?",
     "spanish_expression": "",
     "id": 0.9,
-    "subject": ["", "people", ""]
+    "subjects": ["", "people", ""]
   },
   {
     "french_expression": "revenir de quelque part",
     "english_expression": "to come back from somewhere",
     "spanish_expression": "",
     "id": 0.11,
-    "subject": ["travel", "", ""]
+    "subjects": ["travel", "", ""]
   },
   {
     "french_expression": "Elle est revenue du Japon le mois dernier.",
     "english_expression": "She got back from Japan last month.",
     "spanish_expression": "",
     "id": 0.12,
-    "subject": ["le passé composé", "travel", ""]
+    "subjects": ["le passé composé", "travel", ""]
   },
   {
     "french_expression": "revenir de loin",
     "english_expression": "to have made a spectacular recovery",
     "spanish_expression": "",
     "id": 0.13,
-    "subject": ["phrases", "health", ""]
+    "subjects": ["phrases", "health", ""]
   },
   {
     "french_expression": "revenir à qch",
     "english_expression": "to return to sth / to go back to sth",
     "spanish_expression": "",
     "id": 0.14,
-    "subject": ["phrases", "work", "descriptions"]
+    "subjects": ["phrases", "work", "descriptions"]
   },
   {
     "french_expression": "revenir de qch",
     "english_expression": "to recover from sth / to be over sth",
     "spanish_expression": "",
     "id": 0.15,
-    "subject": ["health", "phrases", "emotions"]
+    "subjects": ["health", "phrases", "emotions"]
   },
   {
     "french_expression": "Il est revenu de sa période bio.",
     "english_expression": "He's got over his organic phase.",
     "spanish_expression": "",
     "id": 0.16,
-    "subject": ["le passé composé", "people", "phrases", "emotions"]
+    "subjects": ["le passé composé", "people", "phrases", "emotions"]
   },
   {
     "french_expression": "être revenu de tout",
     "english_expression": "to have seen it all",
     "spanish_expression": "",
     "id": 0.17,
-    "subject": ["phrases", "people", "emotions"]
+    "subjects": ["phrases", "people", "emotions"]
   },
   {
     "french_expression": "revenir sur qch",
     "english_expression": "to go back over sth / to go back on sth",
     "spanish_expression": "",
     "id": 0.18,
-    "subject": ["phrases", "people", "emotions"]
+    "subjects": ["phrases", "people", "emotions"]
   },
   {
     "french_expression": "petit / petite / petits",
     "english_expression": "small",
     "spanish_expression": "pequeño / pequeña / pequeños",
     "id": 2,
-    "subject": ["adjectives", "people", "descriptions"]
+    "subjects": ["adjectives", "people", "descriptions"]
   },
   {
     "french_expression": "petits animaux",
     "english_expression": "small animals",
     "spanish_expression": "animales pequeños",
     "id": 2.1,
-    "subject": ["adjectives", "animals", "nature", "descriptions", "easy"]
+    "subjects": ["adjectives", "animals", "nature", "descriptions", "easy"]
   },
   {
     "french_expression": "J'ai un petit chien.",
     "english_expression": "I have a small dog.",
     "id": 3,
-    "subject": ["animals", "adjectives", "avoir", "easy"]
+    "subjects": ["animals", "adjectives", "avoir", "easy"]
   },
   {
     "french_expression": "Elle porte une petite robe rouge.",
     "english_expression": "She is wearing a little red dress.",
     "id": 4,
-    "subject": ["people", "adjectives", "easy"]
+    "subjects": ["people", "adjectives", "easy"]
   },
   {
     "french_expression": "Les enfants jouent avec leurs petits jouets.",
     "english_expression": "The children are playing with their small toys.",
     "id": 5,
-    "subject": ["people", "adjectives", "easy"]
+    "subjects": ["people", "adjectives", "easy"]
   },
   {
     "french_expression": "Nousavons acheté des petites fleurs pour le jardin.",
     "english_expression": "We bought some small flowers for the garden.",
     "id": 6,
-    "subject": ["people", "adjectives", "medium", "past", "nature"]
+    "subjects": ["people", "adjectives", "medium", "past", "nature"]
   },
   {
     "french_expression": "l'hôtel de ville / la mairie",
     "english_expression": "city hall / town hall",
     "id": 7,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Où est ...?",
     "english_expression": "Where is...? / Where did you... ?",
     "id": 8,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Où est-tu allé(e) en vacances?",
     "english_expression": "Where did you go on vacation?",
     "id": 8.1,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Avec qui es-tu parti(e)?",
     "english_expression": "With whom did you go?",
     "id": 8.2,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Comment était ton voyage?",
     "english_expression": "How was your trip?",
     "id": 8.3,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Qu'as-tu fait pendant tes vacances?",
     "english_expression": "What did you do during your vacation?",
     "id": 8.4,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Quel a été ton moment préféré?",
     "english_expression": "What was your favorite moment?",
     "id": 8.5,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Combien de temps es-tu resté(e) là-bas?",
     "english_expression": "How long did you stay there?",
     "id": 8.6,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "As-tu visité des endroits intéressants?",
     "english_expression": "Where is...?",
     "id": 8.7,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "As-tu goûté des plats locaux?",
     "english_expression": "Where is...?",
     "id": 8.8,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Quel temps faisait-il?",
     "english_expression": "What was the weather?",
     "id": 8.9,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Recommanderais-tu cette destination?",
     "english_expression": "Would you recommend this destination?",
     "id": 8.11,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Je suis allé(e) en Italie, à Rome.",
     "english_expression": "I went to Italy, Rome.",
     "id": 8.12,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Je suis allé(e) en Espagne, à Barcelone.",
     "english_expression": "I went to Spain, to Barcelona.",
     "id": 8.13,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Je suis parti(e) avec ma famille.",
     "english_expression": "I went with my family.",
     "id": 8.14,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Je suis parti(e) avec des amis.",
     "english_expression": "I went with friends.",
     "id": 8.15,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Mon voyage était fantastique, plein de découvertes et de bons moments.",
     "english_expression": "My trip was fantastic, full of discoveries and good times",
     "id": 8.16,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Le voyage était un peu fatigant mais très enrichissant.",
     "english_expression": "The trip was a bit tiring but very rewarding.",
     "id": 8.17,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "J'ai visité plusieurs musées et monuments historiques.",
     "english_expression": "I visited several museums and historical monuments.",
     "id": 8.18,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "J'ai passé beaucoup de temps à la plage et fait des sports nautiques.",
     "english_expression": "I spent a lot of time at the beach and did water sports.",
     "id": 8.19,
-    "subject": ["moving around and travel"]
-  },{
+    "subjects": ["moving around and travel"]
+  },
+  {
     "french_expression": "Mon moment préféré a été la visite du Colisée à Rome.",
     "english_expression": "My favorite moment was visiting the Colosseum in Rome.",
-    "id": 8.20,
-    "subject": ["moving around and travel"]
+    "id": 8.2,
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "J'ai adoré le concert en plein air à Barcelone.",
     "english_expression": "I loved the open-air concert in Barcelona.",
     "id": 8.21,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Je suis resté(e) là-bas pendant deux semaines.",
     "english_expression": "I stayed there for two weeks.",
     "id": 8.22,
-    "subject": ["moving around and travel"]
-  },{
+    "subjects": ["moving around and travel"]
+  },
+  {
     "french_expression": "J'ai passé dix jours là-bas.",
     "english_expression": "I spent ten days there.",
     "id": 8.23,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "J'ai visité le Vatican et la chapelle Sixtine.",
     "english_expression": "I visited the Vatican and the Sistine Chapel.",
     "id": 8.24,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Oui, j'ai exploré le quartier gothique et le parc Güell à Barcelone.",
     "english_expression": "I explored the Gothic Quarter and Park Güell in Barcelona.",
     "id": 8.25,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "J'ai goûté la pizza et les pâtes italiennes.",
     "english_expression": "I tasted Italian pizza and pasta.",
     "id": 8.26,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "J'ai essayé la paella et les tapas espagnoles.",
     "english_expression": "I tried Spanish paella and tapas.",
     "id": 8.27,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "",
     "english_expression": "",
     "id": 8.28,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "",
     "english_expression": "",
     "id": 8.29,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "",
     "english_expression": "",
-    "id": 8.30,
-    "subject": ["moving around and travel"]
+    "id": 8.3,
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "",
     "english_expression": "",
     "id": 8.31,
-    "subject": ["moving around and travel"]
-  },{
+    "subjects": ["moving around and travel"]
+  },
+  {
     "french_expression": "",
     "english_expression": "",
     "id": 8.32,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la poste",
     "english_expression": "the post office",
     "id": 9,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la banque",
     "english_expression": "the bank",
     "id": 10,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le musée",
     "english_expression": "the museum",
     "id": 11,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le salon de coiffure",
     "english_expression": "the hair salon",
     "id": 12,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le restaurant",
     "english_expression": "the restaurant",
     "id": 13,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "l'office de tourisme",
     "english_expression": "the tourism office",
     "id": 14,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le palais de justice",
     "english_expression": "the courthouse",
     "id": 15,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le centre-ville ",
     "english_expression": "downtown, the city center",
     "id": 16,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le garage",
     "english_expression": "the garage",
     "id": 17,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la gare",
     "english_expression": "the station",
     "id": 18,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le parc",
     "english_expression": "the park",
     "id": 19,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la gare routière",
     "english_expression": "the bus station",
     "id": 20,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "l'église",
     "english_expression": "the church",
     "id": 21,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le port",
     "english_expression": "the harbor",
     "id": 22,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la cathédrale",
     "english_expression": "the cathedral",
     "id": 23,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "l'hôpital le plus proche",
     "english_expression": "the nearest hospital",
     "id": 24,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le grand magasin",
     "english_expression": "the department store",
     "id": 25,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le commissariat de police",
     "english_expression": "the police station",
     "id": 26,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le monument",
     "english_expression": "the monument",
     "id": 27,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "l'arrêt de bus",
     "english_expression": "the bus stop",
     "id": 28,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le cinéma",
     "english_expression": "the movie theater / the cinema",
     "id": 29,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le métro",
     "english_expression": "the tube, the underground",
     "id": 30,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le théâtre / la salle de spectacle",
     "english_expression": "the theater",
     "id": 31,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "l'hôpital",
     "english_expression": "the hospital",
     "id": 32,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la tour",
     "english_expression": "the tower",
     "id": 33,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la bibliothèque municipale",
     "english_expression": "The municipal library",
     "id": 34,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le centre commercial",
     "english_expression": "the mall / shopping center",
     "id": 35,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le bureau de poste",
     "english_expression": "the post office",
     "id": 36,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le stade",
     "english_expression": "the stadium",
     "id": 37,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la pelouse interdite",
     "english_expression": "the prohibited lawn",
     "id": 38,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la piscine",
     "english_expression": "the pool",
     "id": 39,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la sortie",
     "english_expression": "the exit",
     "id": 40,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "la plage",
     "english_expression": "the beach",
     "id": 41,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "l'entrée",
     "english_expression": "the entrance",
     "id": 42,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le lycée",
     "english_expression": "the high school",
     "id": 43,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Où sont les toilettes?",
     "english_expression": "Where is the restroom?",
     "id": 44,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "l'université",
     "english_expression": "the university",
     "id": 45,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Où est l'arrêt d'autobus?",
     "english_expression": "Where is the bus stop?",
     "id": 46,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "un bâtiment",
     "english_expression": "a building",
     "id": 47,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Quel est le prochain arrêt?",
     "english_expression": "What is the next stop?",
     "id": 48,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "le gratte-ciel",
     "english_expression": "the skyscraper",
     "id": 49,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Est-ce mon arrêt?",
     "english_expression": "Is this my bus stop?",
     "id": 50,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "une maison",
     "english_expression": "a house",
     "id": 51,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Excusez-moi, je descends ici.",
     "english_expression": "Excuse me, I have to get off here.",
     "id": 52,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "un appartement",
     "english_expression": "an apartment / flat",
     "id": 53,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Où est le musée?",

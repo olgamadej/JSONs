@@ -4,7 +4,7 @@
     "english_expression": "to become",
     "spanish_expression": "",
     "id": 0.1,
-    "subject": ["verbs", "verbs of change"]
+    "subjects": ["verbs", "verbs of change"]
   },
   {
     "french_expression": "revenir",

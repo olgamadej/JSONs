@@ -7,6 +7,76 @@
     "subjects": ["verbs", "verbs of change"]
   },
   {
+    "french_expression": "s'améliorer",
+    "english_expression": "to improve",
+    "spanish_expression": "",
+    "id": 0.1001,
+    "subjects": ["verbs", "verbs of change"]
+  },
+  {
+    "french_expression": "changer",
+    "english_expression": "to change",
+    "spanish_expression": "",
+    "id": 0.1002,
+    "subjects": ["verbs", "verbs of change"]
+  },
+  {
+    "french_expression": "se transformer",
+    "english_expression": "to transform",
+    "spanish_expression": "",
+    "id": 0.1003,
+    "subjects": ["verbs", "verbs of change"]
+  },
+  {
+    "french_expression": "grandir",
+    "english_expression": "to grow up",
+    "spanish_expression": "",
+    "id": 0.1004,
+    "subjects": ["verbs", "growth", "verbs of change"]
+  },
+  {
+    "french_expression": "mourir",
+    "english_expression": "to die",
+    "spanish_expression": "",
+    "id": 0.1005,
+    "subjects": ["verbs", "life events", "verbs of change"]
+  },
+  {
+    "french_expression": "se développer",
+    "english_expression": "to develop",
+    "spanish_expression": "",
+    "id": 0.1006,
+    "subjects": ["verbs", "progress", "verbs of change"]
+  },
+  {
+    "french_expression": "vieillir",
+    "english_expression": "to age",
+    "spanish_expression": "",
+    "id": 0.1007,
+    "subjects": ["verbs", "aging", "verbs of change"]
+  },
+  {
+    "french_expression": "évoluer",
+    "english_expression": "to evolve",
+    "spanish_expression": "",
+    "id": 0.1008,
+    "subjects": ["verbs", "evolution", "verbs of change"]
+  },
+  {
+    "french_expression": "se détériorer",
+    "english_expression": "to deteriorate",
+    "spanish_expression": "",
+    "id": 0.1009,
+    "subjects": ["verbs", "decline", "verbs of change"]
+  },
+  {
+    "french_expression": "se métamorphoser",
+    "english_expression": "to metamorphose",
+    "spanish_expression": "",
+    "id": 0.101,
+    "subjects": ["verbs", "transformation", "verbs of change"]
+  },
+  {
     "french_expression": "revenir",
     "english_expression": "to come back",
     "spanish_expression": "",

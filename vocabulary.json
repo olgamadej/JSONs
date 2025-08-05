@@ -698,1111 +698,1111 @@
     "french_expression": "Où est le musée?",
     "english_expression": "Where is the museum?",
     "id": 54,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "Est-ce que l'entrée est payante?",
     "english_expression": "Is there an entrance fee?",
     "id": 55,
-    "subject": ["moving around and travel"]
+    "subjects": ["moving around and travel"]
   },
   {
     "french_expression": "du chocolat",
     "english_expression": "chocolat",
     "id": 56,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Quel est ton dessert préféré?",
     "english_expression": "What is your favourite dessert?",
     "spanish_expression": "¿Cuál es su postre favorito?",
     "id": 57,
-    "subject": ["food_and_drink", "questions", "easy"]
+    "subjects": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Aimes-tu du chocolat, un gâteau, une tarte ou un biscuit ?",
     "english_expression": "Do you like chocolate, cakes, tarts or biscuits?",
     "spanish_expression": "¿Le gusta el chocolate, los pasteles, las tartas o las galletas?",
     "id": 58,
-    "subject": ["food_and_drink", "questions", "easy"]
+    "subjects": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Qu'est-ce que tu manges pour le petit déjeuner?",
     "english_expression": "What do you eat for breakfast?",
     "spanish_expression": "",
     "id": 59,
-    "subject": ["food_and_drink", "questions", "easy"]
+    "subjects": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Prends-tu du café, du lait, des céréales ou des fruits au petit déjeuner?",
     "english_expression": "Do you have coffee, milk, cereal or some fruit for breakfast?",
     "spanish_expression": "¿Desayunas café, leche, cereales o algo de fruta?",
     "id": 60,
-    "subject": ["food_and_drink", "questions", "easy"]
+    "subjects": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Aimes-tu manger du chocolat noir ou au lait?",
     "english_expression": "Do you like to eat dark or milk chocolate?",
     "spanish_expression": "",
     "id": 61,
-    "subject": ["food_and_drink", "questions", "easy"]
+    "subjects": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Quel type de chocolat préfères-tu pour le dessert?",
     "english_expression": "What type of chocolate do you like to have for dessert?",
     "spanish_expression": "",
     "id": 62,
-    "subject": ["food_and_drink", "questions", "easy"]
+    "subjects": ["food_and_drink", "questions", "easy"]
   },
   {
     "french_expression": "Manges-tu souvent du chocolat en guise de collation?",
     "english_expression": "Do you often eat chocolate as a snack?",
     "spanish_expression": "¿Come chocolate a menudo como tentempié?",
     "id": 63,
-    "subject": []
+    "subjects": []
   },
   {
     "french_expression": "un yaourt",
     "english_expression": "yogurt",
     "id": 64,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la purée",
     "english_expression": "purée",
     "id": 65,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du sucre",
     "english_expression": "sugar",
     "id": 66,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un gâteau",
     "english_expression": "a cake",
     "id": 67,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un glaçon",
     "english_expression": "an ice cube",
     "id": 68,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du lait",
     "english_expression": "milk",
     "id": 69,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une tarte",
     "english_expression": "a tart",
     "id": 70,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la confiture",
     "english_expression": "jam",
     "id": 71,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du sel",
     "english_expression": "salt",
     "id": 72,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la glace",
     "english_expression": "ice cream",
     "id": 73,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du poivre",
     "english_expression": "pepper",
     "id": 74,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un biscuit",
     "english_expression": "a cookie",
     "id": 75,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un café",
     "english_expression": "coffee",
     "id": 76,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le petit déjeuner",
     "english_expression": "breakfast",
     "id": 77,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "les fruits",
     "english_expression": "the fruit",
     "id": 78,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "les céréales",
     "english_expression": "the cereal",
     "id": 79,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le déjeuner",
     "english_expression": "the dinner",
     "id": 80,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du pain",
     "english_expression": "bread",
     "id": 81,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la salade",
     "english_expression": "the salad",
     "id": 82,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le goûter",
     "english_expression": "afternoon tea",
     "id": 83,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la viande",
     "english_expression": "the meat",
     "id": 84,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le rôti",
     "english_expression": "the roast",
     "id": 85,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le dîner",
     "english_expression": "the dinner",
     "id": 86,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le poisson",
     "english_expression": "the fish",
     "id": 87,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le riz",
     "english_expression": "rice",
     "id": 88,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une soupe",
     "english_expression": "a soup",
     "id": 89,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du fromage",
     "english_expression": "cheese",
     "id": 90,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "des pâtes",
     "english_expression": "pasta",
     "id": 91,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Elle aime les asperges.",
     "english_expression": "She likes asparagus.",
     "id": 92,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Tu aimes les radis?",
     "english_expression": "Do you like radishes?",
     "id": 93,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Je vais prendre le ragoût de légumes.",
     "english_expression": "I will have the vegetable stew.",
     "id": 94,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Je n'aime pas les oignons.",
     "english_expression": "I don't like onions.",
     "id": 95,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Je n'aime pas le foie.",
     "english_expression": "I don't like liver.",
     "id": 96,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "J'aime la sole frites.",
     "english_expression": "I like fried sole.",
     "id": 97,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "La soupe aux fruits de mer, s'il vous plaît.",
     "english_expression": "Seafood soup, please.",
     "id": 98,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Je ne mange pas de viande.",
     "english_expression": "I dont eat meat.",
     "id": 99,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Est-ce que tu aimes les pêches?",
     "english_expression": "Do you like peaches?",
     "id": 100,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "J'aime l'avocat.",
     "english_expression": "I like avocado.",
     "id": 101,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Il n'aime pas les prunes.",
     "english_expression": "He does not like plums.",
     "id": 102,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Je vais prendre des bananes.",
     "english_expression": "I will have some bananas.",
     "id": 103,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "J'aime les céréales.",
     "english_expression": "I like cereals.",
     "id": 104,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Je veux du bacon.",
     "english_expression": "I want some bacon.",
     "id": 105,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Je vais prendre une omelette.",
     "english_expression": "I will have an omelette.",
     "id": 106,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Du beurre, s'il vous plaît.",
     "english_expression": "Some butter, please.",
     "id": 107,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une verre de vin",
     "english_expression": "a glass of wine",
     "id": 108,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une brique de lait",
     "english_expression": "a carton of milk",
     "id": 109,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un veree d'eau",
     "english_expression": "a glass of water",
     "id": 110,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une bouteille de bière",
     "english_expression": "a bootle of beer",
     "id": 111,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une tasse de café",
     "english_expression": "a cup of coffee",
     "id": 112,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un verre de jus",
     "english_expression": "a glass of juice",
     "id": 113,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une tasse de thé",
     "english_expression": "a cup of tea",
     "id": 114,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "les boissons",
     "english_expression": "the drinks",
     "id": 115,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la bière",
     "english_expression": "the beer",
     "id": 116,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le cognac",
     "english_expression": "the cognac",
     "id": 117,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le vin rouge",
     "english_expression": "the red wine",
     "id": 118,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le vin blanc",
     "english_expression": "the white wine",
     "id": 119,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la liqueur",
     "english_expression": "the liquor",
     "id": 120,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la champagne",
     "english_expression": "the champagne",
     "id": 121,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le cocktail",
     "english_expression": "the cocktail",
     "id": 122,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la limonade",
     "english_expression": "the limonade",
     "id": 123,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "l'eau (fem.)",
     "english_expression": "water",
     "id": 124,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le jus",
     "english_expression": "the juice",
     "id": 125,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le martini",
     "english_expression": "the martini",
     "id": 126,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le café",
     "english_expression": "the coffee",
     "id": 127,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le thé",
     "english_expression": "the tea",
     "id": 128,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la prune",
     "english_expression": "the plum",
     "id": 129,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la cerise",
     "english_expression": "the cherry",
     "id": 130,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le raisin",
     "english_expression": "the grape",
     "id": 131,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la fraise",
     "english_expression": "the strawberry",
     "id": 132,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "les fruits secs",
     "english_expression": "the dried fruits",
     "id": 133,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le pruneau",
     "english_expression": "the plum",
     "id": 134,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la prune séchée",
     "english_expression": "the dried plum",
     "id": 135,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la macédoine de fruits",
     "english_expression": "the fruit salad",
     "id": 136,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la rhubarbe",
     "english_expression": "the rhubarb",
     "id": 137,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "l'abricot (masc.)",
     "english_expression": "the apricot",
     "id": 138,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le melon",
     "english_expression": "the melon",
     "id": 139,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la framboise",
     "english_expression": "the raspberry",
     "id": 140,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le citron vert",
     "english_expression": "the lime",
     "id": 141,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la clémentine",
     "english_expression": "the clementine",
     "id": 142,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le pamplemousse",
     "english_expression": "the grapefruit",
     "id": 143,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la figue",
     "english_expression": "the fig",
     "id": 144,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le cassis",
     "english_expression": "the blackcurrant",
     "id": 145,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la groseille à maquereau",
     "english_expression": "the gooseberry",
     "id": 146,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le saumon",
     "english_expression": "the salmon",
     "id": 147,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Il y a un petit café au coin de la rue.",
     "english_expression": "There is a small café at the corner of the street",
     "id": 148,
-    "subject": ["food_and_drink", "adjectives", "places", "easy"]
+    "subjects": ["food_and_drink", "adjectives", "places", "easy"]
   },
   {
     "french_expression": "Elle a une petite voix douce.",
     "english_expression": "She has a small, sweet voice.",
     "id": 149,
-    "subject": ["people", "adjectives", "descriptions", "easy"]
+    "subjects": ["people", "adjectives", "descriptions", "easy"]
   },
   {
     "french_expression": "Les petits oiseaux chantent dans les arbres.",
     "english_expression": "The little birds are singing in the trees.",
     "id": 150,
-    "subject": ["adjectives", "animals", "nature", "easy"]
+    "subjects": ["adjectives", "animals", "nature", "easy"]
   },
   {
     "french_expression": "Ils ont adopté deux petits chatons.",
     "english_expression": "They adopted two small kittens.",
     "id": 151,
-    "subject": ["adjectives", "animals", "medium"]
+    "subjects": ["adjectives", "animals", "medium"]
   },
   {
     "french_expression": "l'adolescence (f.)",
     "english_expression": "adolescence",
     "id": 152,
-    "subject": ["relationships"]
+    "subjects": ["relationships"]
   },
   {
     "french_expression": "l'âge de raison (m.)",
     "english_expression": "grown-up age",
     "id": 153,
-    "subject": ["relationships", "age", "descriptions", "medium"]
+    "subjects": ["relationships", "age", "descriptions", "medium"]
   },
   {
     "french_expression": "la connaissance",
     "english_expression": "acquaintance",
     "id": 154,
-    "subject": ["relationships", "knowledge", "medium"]
+    "subjects": ["relationships", "knowledge", "medium"]
   },
   {
     "french_expression": "un/une collègue",
     "english_expression": "a colleague",
     "id": 155,
-    "subject": ["relationships", "work", "easy"]
+    "subjects": ["relationships", "work", "easy"]
   },
   {
     "french_expression": "le/la camarade",
     "english_expression": "the friend",
     "id": 156,
-    "subject": ["relationships", "medium"]
+    "subjects": ["relationships", "medium"]
   },
   {
     "french_expression": "l'amant(e)",
     "english_expression": "lover",
     "id": 157,
-    "subject": ["relationships"]
+    "subjects": ["relationships"]
   },
   {
     "french_expression": "l'ami(e) intime",
     "english_expression": "close friend",
     "id": 158,
-    "subject": ["relationships"]
+    "subjects": ["relationships"]
   },
   {
     "french_expression": "Elle prépare de petites tartes aux fruits.",
     "english_expression": "She is making small fruit taarts.",
     "id": 159,
-    "subject": ["food_and_drink", "adjectives", "easy"]
+    "subjects": ["food_and_drink", "adjectives", "easy"]
   },
   {
     "french_expression": "Le petit garçon court dans le parc.",
     "english_expression": "The little boy is running in the park.",
     "id": 160,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "Je m'abandonne à ces leurs d'autrefois",
     "english_expression": "I give myself up to the glimmers of the past.",
     "id": 161,
-    "subject": ["people", "descriptions", "past", "medium"]
+    "subjects": ["people", "descriptions", "past", "medium"]
   },
   {
     "french_expression": "un gendre solidaire",
     "english_expression": "A supportive son-in-law",
     "id": 162,
-    "subject": ["people", "descriptions", "adjectives", "medium"]
+    "subjects": ["people", "descriptions", "adjectives", "medium"]
   },
   {
     "french_expression": "des jumeaux identiques / des jumelles identiques",
     "english_expression": "Identical twins",
     "id": 163,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "une maman aimante",
     "english_expression": "a loving mom",
     "id": 164,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "une mère attentionnée",
     "english_expression": "a caring mother",
     "id": 165,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "un neveu joueur",
     "english_expression": "a playful nephew",
     "id": 166,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "une nièce curieuse",
     "english_expression": "a curious niece",
     "id": 167,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "un oncle amusant",
     "english_expression": "a fun uncle",
     "id": 168,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "un papa protecteur",
     "english_expression": "a protective dad",
     "id": 169,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "des parents solidaires",
     "english_expression": "supportive parents",
     "id": 170,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "un père strict",
     "english_expression": "a strict father",
     "id": 171,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "une sœur aimante",
     "english_expression": "a loving sister",
     "id": 172,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "une tante généreuse",
     "english_expression": "a generous aunt",
     "id": 173,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "un beau-fils travailleur",
     "english_expression": "a hardworking stepson",
     "id": 174,
-    "subject": ["people", "adjectives", "descriptions", "advanced"]
+    "subjects": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
     "french_expression": "une belle-fille diligente",
     "english_expression": "a diligent stepdaughter",
     "id": 175,
-    "subject": ["people", "adjectives", "descriptions", "advanced"]
+    "subjects": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
     "french_expression": "un beau-frère solidaire",
     "english_expression": "a supportive brother-in-law",
     "id": 176,
-    "subject": ["people", "adjectives", "descriptions", "advanced"]
+    "subjects": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
     "french_expression": "une belle-sœur attentionnée",
     "english_expression": "a caring sister-in-law",
     "id": 177,
-    "subject": ["people", "adjectives", "descriptions", "advanced"]
+    "subjects": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
     "french_expression": "un beau-père sage",
     "english_expression": "a wise stepfather",
     "id": 178,
-    "subject": ["people", "adjectives", "descriptions", "advanced"]
+    "subjects": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
     "french_expression": "une belle-mère gentille",
     "english_expression": "a kind stepmother",
     "id": 179,
-    "subject": ["people", "adjectives", "descriptions", "advanced"]
+    "subjects": ["people", "adjectives", "descriptions", "advanced"]
   },
   {
     "french_expression": "un ami de confiance / un copain de confiance",
     "english_expression": "a trustworthy friend (m.)",
     "id": 180,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "une amie solidaire / une copine solidaire",
     "english_expression": "a supportive friend (f.)",
     "id": 181,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "des amoureux aimants",
     "english_expression": "loving sweethearts",
     "id": 182,
-    "subject": ["people", "adjectives", "descriptions", "medium"]
+    "subjects": ["people", "adjectives", "descriptions", "medium"]
   },
   {
     "french_expression": "",
     "english_expression": "intimate relationships",
     "id": 183,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du sucre",
     "english_expression": "a painful breakup",
     "id": 184,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un gâteau",
     "english_expression": "a difficult separation",
     "id": 185,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un glaçon",
     "english_expression": "a happy second marriage",
     "id": 186,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du lait",
     "english_expression": "a recognized civil union",
     "id": 187,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une tarte",
     "english_expression": "a rebellious teenager",
     "id": 188,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la confiture",
     "english_expression": "a responsible adult",
     "id": 189,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du sel",
     "english_expression": "a single person",
     "id": 190,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la glace",
     "english_expression": "a happy couple",
     "id": 191,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du poivre",
     "english_expression": "a kind lady",
     "id": 192,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un biscuit",
     "english_expression": "a young lady",
     "id": 193,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un café",
     "english_expression": "a palyful child",
     "id": 194,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le petit déjeuner",
     "english_expression": "a supportive spouse",
     "id": 195,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "les fruits",
     "english_expression": "a caring woman",
     "id": 196,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "les céréales",
     "english_expression": "an engaged fiancé",
     "id": 197,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le déjeuner",
     "english_expression": "a young boy",
     "id": 198,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du pain",
     "english_expression": "a strong man",
     "id": 199,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la salade",
     "english_expression": "a charming young girl",
     "id": 200,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le goûter",
     "english_expression": "a handsome young man",
     "id": 201,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la viande",
     "english_expression": "a loving husband",
     "id": 202,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le rôti",
     "english_expression": "a joyful groom",
     "id": 203,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le dîner",
     "english_expression": "a healthy newborn",
     "id": 204,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du poisson",
     "english_expression": "the newlyweds",
     "id": 205,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le riz",
     "english_expression": "a curious toddler",
     "id": 206,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une soupe",
     "english_expression": "a grieving widower",
     "id": 207,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du fromage",
     "english_expression": "a grieving widow",
     "id": 208,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "des pâtes",
     "english_expression": "doing the homework",
     "id": 209,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du chocolat",
     "english_expression": "making the dinner",
     "id": 210,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un yaourt",
     "english_expression": "doing the laundry",
     "id": 211,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la purée",
     "english_expression": "commuting",
     "id": 212,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du sucre",
     "english_expression": "doing the dishes",
     "id": 213,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un gâteau",
     "english_expression": "doing his/her work",
     "id": 214,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un glaçon",
     "english_expression": "making dinner",
     "id": 215,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du lait",
     "english_expression": "doing the laun",
     "id": 216,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une tarte",
     "english_expression": "a tart",
     "id": 217,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la confiture",
     "english_expression": "jam",
     "id": 218,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du sel",
     "english_expression": "salt",
     "id": 219,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la glace",
     "english_expression": "ice cream",
     "id": 220,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du poivre",
     "english_expression": "pepper",
     "id": 221,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un biscuit",
     "english_expression": "a cookie",
     "id": 222,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "un café",
     "english_expression": "coffee",
     "id": 223,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le petit déjeuner",
     "english_expression": "breakfast",
     "id": 224,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "les fruits",
     "english_expression": "the fruit",
     "id": 225,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "les céréales",
     "english_expression": "the cereal",
     "id": 226,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le déjeuner",
     "english_expression": "the dinner",
     "id": 227,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du pain",
     "english_expression": "bread",
     "id": 228,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la salade",
     "english_expression": "the salad",
     "id": 229,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le goûter",
     "english_expression": "afternoon tea",
     "id": 230,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "la viande",
     "english_expression": "the meat",
     "id": 231,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le rôti",
     "english_expression": "the roast",
     "id": 232,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le dîner",
     "english_expression": "the dinner",
     "id": 233,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du poisson",
     "english_expression": "the fish",
     "id": 234,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "le riz",
     "english_expression": "rice",
     "id": 235,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "une soupe",
     "english_expression": "a soup",
     "id": 236,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   },
   {
     "french_expression": "du fromage",
     "english_expression": "cheese",
     "id": 237,
-    "subject": ["food_and_drink"]
+    "subjects": ["food_and_drink"]
   }
 ]

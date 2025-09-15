@@ -76,89 +76,90 @@
     "id": 0.101,
     "subjects": ["verbs", "transformation", "verbs of change"]
   },
+  [
   {
     "french_expression": "revenir",
     "english_expression": "to come back",
     "spanish_expression": "",
     "id": 0.2,
-    "subjects": ["adjectives", "people", "descriptions"]
+    "subjects": ["verbs", "phrases", "travel"]
   },
   {
     "french_expression": "Reviens vite!",
     "english_expression": "Come back soon!",
     "spanish_expression": "",
     "id": 0.3,
-    "subjects": ["l’impératif", "", "descriptions"]
+    "subjects": ["imperative", "phrases", "emotions"]
   },
   {
     "french_expression": "Son nom m'est revenu cinq minutes après.",
     "english_expression": "His name came back to me five minutes later.",
     "spanish_expression": "",
     "id": 0.4,
-    "subjects": ["le passé composé", "", ""]
+    "subjects": ["passé composé", "phrases", "memory"]
   },
   {
     "french_expression": "Ça revient au même.",
     "english_expression": "It comes to the same thing.",
     "spanish_expression": "",
     "id": 0.5,
-    "subjects": ["adjectives", "people", "descriptions"]
+    "subjects": ["phrases", "descriptions"]
   },
   {
     "french_expression": "Ça revient cher.",
     "english_expression": "It costs a lot",
     "spanish_expression": "",
     "id": 0.6,
-    "subjects": ["adjectives", "shopping", ""]
+    "subjects": ["shopping", "adjectives"]
   },
   {
-    "french_expression": "Je n'en revient pas!",
+    "french_expression": "Je n'en reviens pas!",
     "english_expression": "I can't get over it!",
     "spanish_expression": "",
     "id": 0.7,
-    "subjects": ["emotions", "", "descriptions"]
+    "subjects": ["emotions", "phrases"]
   },
   {
     "french_expression": "revenir sur ses pas",
     "english_expression": "to retrace one's steps",
     "spanish_expression": "",
     "id": 0.8,
-    "subjects": ["phrases", "", ""]
+    "subjects": ["phrases", "travel"]
   },
   {
     "french_expression": "Quand est-ce qu'il revient?",
     "english_expression": "When is he coming back?",
     "spanish_expression": "",
     "id": 0.9,
-    "subjects": ["", "people", ""]
+    "subjects": ["verbs", "people", "questions"]
   },
   {
     "french_expression": "revenir de quelque part",
     "english_expression": "to come back from somewhere",
     "spanish_expression": "",
     "id": 0.11,
-    "subjects": ["travel", "", ""]
+    "subjects": ["verbs", "travel"]
   },
   {
     "french_expression": "Elle est revenue du Japon le mois dernier.",
     "english_expression": "She got back from Japan last month.",
     "spanish_expression": "",
     "id": 0.12,
-    "subjects": ["le passé composé", "travel", ""]
+    "subjects": ["passé composé", "travel"]
   },
   {
     "french_expression": "revenir de loin",
     "english_expression": "to have made a spectacular recovery",
     "spanish_expression": "",
     "id": 0.13,
-    "subjects": ["phrases", "health", ""]
+    "subjects": ["phrases", "health"]
   },
   {
     "french_expression": "revenir à qqch",
     "english_expression": "to return to sth / to go back to sth",
     "spanish_expression": "",
     "id": 0.14,
-    "subjects": ["phrases", "work", "descriptions"]
+    "subjects": ["phrases", "work"]
   },
   {
     "french_expression": "revenir de qqch",
@@ -172,7 +173,7 @@
     "english_expression": "He's got over his organic phase.",
     "spanish_expression": "",
     "id": 0.16,
-    "subjects": ["le passé composé", "people", "phrases", "emotions"]
+    "subjects": ["passé composé", "people", "phrases", "emotions"]
   },
   {
     "french_expression": "être revenu de tout",
@@ -186,7 +187,7 @@
     "english_expression": "to go back over sth / to go back on sth",
     "spanish_expression": "",
     "id": 0.18,
-    "subjects": ["phrases", "people", "emotions"]
+    "subjects": ["phrases", "work", "emotions"]
   },
   {
     "french_expression": "petit / petite / petits",
@@ -212,7 +213,7 @@
     "french_expression": "Elle porte une petite robe rouge.",
     "english_expression": "She is wearing a little red dress.",
     "id": 4,
-    "subjects": ["people", "adjectives", "easy"]
+    "subjects": ["people", "adjectives", "descriptions", "easy"]
   },
   {
     "french_expression": "Les enfants jouent avec leurs petits jouets.",
@@ -221,7 +222,7 @@
     "subjects": ["people", "adjectives", "easy"]
   },
   {
-    "french_expression": "Nousavons acheté des petites fleurs pour le jardin.",
+    "french_expression": "Nous avons acheté des petites fleurs pour le jardin.",
     "english_expression": "We bought some small flowers for the garden.",
     "id": 6,
     "subjects": ["people", "adjectives", "medium", "past", "nature"]
@@ -230,157 +231,157 @@
     "french_expression": "l'hôtel de ville / la mairie",
     "english_expression": "city hall / town hall",
     "id": 7,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "places"]
   },
   {
     "french_expression": "Où est ...?",
     "english_expression": "Where is...? / Where did you... ?",
     "id": 8,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions"]
   },
   {
     "french_expression": "Où est-tu allé(e) en vacances?",
     "english_expression": "Where did you go on vacation?",
     "id": 8.1,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "passé composé"]
   },
   {
     "french_expression": "Avec qui es-tu parti(e)?",
     "english_expression": "With whom did you go?",
     "id": 8.2,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "passé composé"]
   },
   {
     "french_expression": "Comment était ton voyage?",
     "english_expression": "How was your trip?",
     "id": 8.3,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions"]
   },
   {
     "french_expression": "Qu'as-tu fait pendant tes vacances?",
     "english_expression": "What did you do during your vacation?",
     "id": 8.4,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "passé composé"]
   },
   {
     "french_expression": "Quel a été ton moment préféré?",
     "english_expression": "What was your favorite moment?",
     "id": 8.5,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "passé composé"]
   },
   {
     "french_expression": "Combien de temps es-tu resté(e) là-bas?",
     "english_expression": "How long did you stay there?",
     "id": 8.6,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "passé composé"]
   },
   {
     "french_expression": "As-tu visité des endroits intéressants?",
-    "english_expression": "Where is...?",
+    "english_expression": "Did you visit interesting places?",
     "id": 8.7,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "passé composé"]
   },
   {
     "french_expression": "As-tu goûté des plats locaux?",
-    "english_expression": "Where is...?",
+    "english_expression": "Did you try local dishes?",
     "id": 8.8,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "passé composé", "food"]
   },
   {
     "french_expression": "Quel temps faisait-il?",
     "english_expression": "What was the weather?",
     "id": 8.9,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "weather", "imparfait"]
   },
   {
     "french_expression": "Recommanderais-tu cette destination?",
     "english_expression": "Would you recommend this destination?",
     "id": 8.11,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "questions", "conditional"]
   },
   {
     "french_expression": "Je suis allé(e) en Italie, à Rome.",
     "english_expression": "I went to Italy, Rome.",
     "id": 8.12,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "places"]
   },
   {
     "french_expression": "Je suis allé(e) en Espagne, à Barcelone.",
     "english_expression": "I went to Spain, to Barcelona.",
     "id": 8.13,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "places"]
   },
   {
     "french_expression": "Je suis parti(e) avec ma famille.",
     "english_expression": "I went with my family.",
     "id": 8.14,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "family"]
   },
   {
     "french_expression": "Je suis parti(e) avec des amis.",
     "english_expression": "I went with friends.",
     "id": 8.15,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "friends"]
   },
   {
     "french_expression": "Mon voyage était fantastique, plein de découvertes et de bons moments.",
     "english_expression": "My trip was fantastic, full of discoveries and good times",
     "id": 8.16,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "descriptions", "emotions"]
   },
   {
     "french_expression": "Le voyage était un peu fatigant mais très enrichissant.",
     "english_expression": "The trip was a bit tiring but very rewarding.",
     "id": 8.17,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "descriptions", "emotions"]
   },
   {
     "french_expression": "J'ai visité plusieurs musées et monuments historiques.",
     "english_expression": "I visited several museums and historical monuments.",
     "id": 8.18,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "places"]
   },
   {
     "french_expression": "J'ai passé beaucoup de temps à la plage et fait des sports nautiques.",
     "english_expression": "I spent a lot of time at the beach and did water sports.",
     "id": 8.19,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "leisure", "nature"]
   },
   {
     "french_expression": "Mon moment préféré a été la visite du Colisée à Rome.",
     "english_expression": "My favorite moment was visiting the Colosseum in Rome.",
     "id": 8.2,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "places"]
   },
   {
     "french_expression": "J'ai adoré le concert en plein air à Barcelone.",
     "english_expression": "I loved the open-air concert in Barcelona.",
     "id": 8.21,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "emotions", "leisure"]
   },
   {
     "french_expression": "Je suis resté(e) là-bas pendant deux semaines.",
     "english_expression": "I stayed there for two weeks.",
     "id": 8.22,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "time"]
   },
   {
     "french_expression": "J'ai passé dix jours là-bas.",
     "english_expression": "I spent ten days there.",
     "id": 8.23,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "time"]
   },
   {
     "french_expression": "J'ai visité le Vatican et la chapelle Sixtine.",
     "english_expression": "I visited the Vatican and the Sistine Chapel.",
     "id": 8.24,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "places"]
   },
   {
     "french_expression": "Oui, j'ai exploré le quartier gothique et le parc Güell à Barcelone.",
     "english_expression": "I explored the Gothic Quarter and Park Güell in Barcelona.",
     "id": 8.25,
-    "subjects": ["moving around and travel"]
+    "subjects": ["travel", "passé composé", "places"]
   },
   {
     "french_expression": "J'ai goûté la pizza et les pâtes italiennes.",

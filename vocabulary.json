@@ -76,7 +76,6 @@
     "id": 0.101,
     "subjects": ["verbs", "transformation", "verbs of change"]
   },
-  [
   {
     "french_expression": "revenir",
     "english_expression": "to come back",
@@ -237,7 +236,7 @@
     "french_expression": "Où est ...?",
     "english_expression": "Where is...? / Where did you... ?",
     "id": 8,
-    "subjects": ["travel", "questions"]
+    "subjects": ["travel", "questions", "places"]
   },
   {
     "french_expression": "Où est-tu allé(e) en vacances?",
@@ -384,343 +383,151 @@
     "subjects": ["travel", "passé composé", "places"]
   },
   {
-    "french_expression": "J'ai goûté la pizza et les pâtes italiennes.",
-    "english_expression": "I tasted Italian pizza and pasta.",
-    "id": 8.26,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "J'ai essayé la paella et les tapas espagnoles.",
-    "english_expression": "I tried Spanish paella and tapas.",
-    "id": 8.27,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "",
-    "english_expression": "",
-    "id": 8.28,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "",
-    "english_expression": "",
-    "id": 8.29,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "",
-    "english_expression": "",
-    "id": 8.3,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "",
-    "english_expression": "",
-    "id": 8.31,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "",
-    "english_expression": "",
-    "id": 8.32,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la poste",
-    "english_expression": "the post office",
-    "id": 9,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la banque",
-    "english_expression": "the bank",
-    "id": 10,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le musée",
-    "english_expression": "the museum",
-    "id": 11,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le salon de coiffure",
-    "english_expression": "the hair salon",
-    "id": 12,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le restaurant",
-    "english_expression": "the restaurant",
-    "id": 13,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "l'office de tourisme",
-    "english_expression": "the tourism office",
-    "id": 14,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le palais de justice",
-    "english_expression": "the courthouse",
-    "id": 15,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le centre-ville ",
-    "english_expression": "downtown, the city center",
-    "id": 16,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le garage",
-    "english_expression": "the garage",
-    "id": 17,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la gare",
-    "english_expression": "the station",
-    "id": 18,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le parc",
-    "english_expression": "the park",
-    "id": 19,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la gare routière",
-    "english_expression": "the bus station",
-    "id": 20,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "l'église",
-    "english_expression": "the church",
-    "id": 21,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le port",
-    "english_expression": "the harbor",
-    "id": 22,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la cathédrale",
-    "english_expression": "the cathedral",
-    "id": 23,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "l'hôpital le plus proche",
-    "english_expression": "the nearest hospital",
-    "id": 24,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le grand magasin",
-    "english_expression": "the department store",
-    "id": 25,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le commissariat de police",
-    "english_expression": "the police station",
-    "id": 26,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le monument",
-    "english_expression": "the monument",
-    "id": 27,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "l'arrêt de bus",
-    "english_expression": "the bus stop",
-    "id": 28,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le cinéma",
-    "english_expression": "the movie theater / the cinema",
-    "id": 29,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le métro",
-    "english_expression": "the tube, the underground",
-    "id": 30,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le théâtre / la salle de spectacle",
-    "english_expression": "the theater",
-    "id": 31,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "l'hôpital",
-    "english_expression": "the hospital",
-    "id": 32,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la tour",
-    "english_expression": "the tower",
-    "id": 33,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la bibliothèque municipale",
-    "english_expression": "The municipal library",
-    "id": 34,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le centre commercial",
-    "english_expression": "the mall / shopping center",
-    "id": 35,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le bureau de poste",
-    "english_expression": "the post office",
-    "id": 36,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le stade",
-    "english_expression": "the stadium",
-    "id": 37,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la pelouse interdite",
-    "english_expression": "the prohibited lawn",
-    "id": 38,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la piscine",
-    "english_expression": "the pool",
-    "id": 39,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la sortie",
-    "english_expression": "the exit",
-    "id": 40,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "la plage",
-    "english_expression": "the beach",
-    "id": 41,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "l'entrée",
-    "english_expression": "the entrance",
-    "id": 42,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le lycée",
-    "english_expression": "the high school",
-    "id": 43,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "Où sont les toilettes?",
-    "english_expression": "Where is the restroom?",
-    "id": 44,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "l'université",
-    "english_expression": "the university",
-    "id": 45,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "Où est l'arrêt d'autobus?",
-    "english_expression": "Where is the bus stop?",
-    "id": 46,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "un bâtiment",
-    "english_expression": "a building",
-    "id": 47,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "Quel est le prochain arrêt?",
-    "english_expression": "What is the next stop?",
-    "id": 48,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "le gratte-ciel",
-    "english_expression": "the skyscraper",
-    "id": 49,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "Est-ce mon arrêt?",
-    "english_expression": "Is this my bus stop?",
-    "id": 50,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "une maison",
-    "english_expression": "a house",
-    "id": 51,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "Excusez-moi, je descends ici.",
-    "english_expression": "Excuse me, I have to get off here.",
-    "id": 52,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "un appartement",
-    "english_expression": "an apartment / flat",
-    "id": 53,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "Où est le musée?",
-    "english_expression": "Where is the museum?",
-    "id": 54,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "Est-ce que l'entrée est payante?",
-    "english_expression": "Is there an entrance fee?",
-    "id": 55,
-    "subjects": ["moving around and travel"]
-  },
-  {
-    "french_expression": "du chocolat",
-    "english_expression": "chocolat",
-    "id": 56,
-    "subjects": ["food_and_drink"]
-  },
-  {
-    "french_expression": "Quel est ton dessert préféré?",
-    "english_expression": "What is your favourite dessert?",
-    "spanish_expression": "¿Cuál es su postre favorito?",
-    "id": 57,
-    "subjects": ["food_and_drink", "questions", "easy"]
-  },
-  {
+  "french_expression": "J'ai goûté la pizza et les pâtes italiennes.",
+  "english_expression": "I tasted Italian pizza and pasta.",
+  "id": 8.26,
+  "subjects": ["food_and_drink"]
+},
+{
+  "french_expression": "J'ai essayé la paella et les tapas espagnoles.",
+  "english_expression": "I tried Spanish paella and tapas.",
+  "id": 8.27,
+  "subjects": ["food_and_drink"]
+},
+{
+  "french_expression": "la poste",
+  "english_expression": "the post office",
+  "id": 9,
+  "subjects": ["travel", "city_places"]
+},
+{
+  "french_expression": "la banque",
+  "english_expression": "the bank",
+  "id": 10,
+  "subjects": ["travel", "city_places"]
+},
+{
+  "french_expression": "le musée",
+  "english_expression": "the museum",
+  "id": 11,
+  "subjects": ["travel", "city_places", "culture"]
+},
+{
+  "french_expression": "le salon de coiffure",
+  "english_expression": "the hair salon",
+  "id": 12,
+  "subjects": ["travel", "city_places", "services"]
+},
+{
+  "french_expression": "le restaurant",
+  "english_expression": "the restaurant",
+  "id": 13,
+  "subjects": ["food_and_drink", "city_places"]
+},
+{
+  "french_expression": "l'office de tourisme",
+  "english_expression": "the tourism office",
+  "id": 14,
+  "subjects": ["travel", "city_places"]
+},
+{
+  "french_expression": "le palais de justice",
+  "english_expression": "the courthouse",
+  "id": 15,
+  "subjects": ["travel", "city_places"]
+},
+{
+  "french_expression": "le centre-ville",
+  "english_expression": "downtown, the city center",
+  "id": 16,
+  "subjects": ["travel", "city_places"]
+},
+{
+  "french_expression": "la gare",
+  "english_expression": "the station",
+  "id": 18,
+  "subjects": ["travel", "transport"]
+},
+{
+  "french_expression": "le parc",
+  "english_expression": "the park",
+  "id": 19,
+  "subjects": ["nature", "city_places"]
+},
+{
+  "french_expression": "la gare routière",
+  "english_expression": "the bus station",
+  "id": 20,
+  "subjects": ["travel", "transport"]
+},
+{
+  "french_expression": "l'église",
+  "english_expression": "the church",
+  "id": 21,
+  "subjects": ["travel", "city_places", "culture"]
+},
+{
+  "french_expression": "le port",
+  "english_expression": "the harbor",
+  "id": 22,
+  "subjects": ["travel", "transport"]
+},
+{
+  "french_expression": "la cathédrale",
+  "english_expression": "the cathedral",
+  "id": 23,
+  "subjects": ["travel", "city_places", "culture"]
+},
+{
+  "french_expression": "l'hôpital le plus proche",
+  "english_expression": "the nearest hospital",
+  "id": 24,
+  "subjects": ["travel", "health", "city_places"]
+},
+{
+  "french_expression": "le centre commercial",
+  "english_expression": "the mall / shopping center",
+  "id": 35,
+  "subjects": ["shopping", "city_places"]
+},
+{
+  "french_expression": "la sortie",
+  "english_expression": "the exit",
+  "id": 40,
+  "subjects": ["travel", "directions"]
+},
+{
+  "french_expression": "la plage",
+  "english_expression": "the beach",
+  "id": 41,
+  "subjects": ["nature", "travel"]
+},
+{
+  "french_expression": "Où sont les toilettes?",
+  "english_expression": "Where is the restroom?",
+  "id": 44,
+  "subjects": ["phrases", "travel"]
+},
+{
+  "french_expression": "un bâtiment",
+  "english_expression": "a building",
+  "id": 47,
+  "subjects": ["travel", "city_places"]
+},
+{
+  "french_expression": "du chocolat",
+  "english_expression": "chocolate",
+  "id": 56,
+  "subjects": ["food_and_drink"]
+},
+{
+  "french_expression": "Quel est ton dessert préféré?",
+  "english_expression": "What is your favourite dessert?",
+  "spanish_expression": "¿Cuál es su postre favorito?",
+  "id": 57,
+  "subjects": ["food_and_drink", "questions", "easy"]
+},
+{
     "french_expression": "Aimes-tu du chocolat, un gâteau, une tarte ou un biscuit ?",
     "english_expression": "Do you like chocolate, cakes, tarts or biscuits?",
     "spanish_expression": "¿Le gusta el chocolate, los pasteles, las tartas o las galletas?",

@@ -46,21 +46,21 @@
     "english_expression": "to gain momentum / to scale up",
     "spanish_expression": "aumentar en poder",
     "id": 0.1020101,
-    "subjects": ["expressions", "change", "growth", "business", "phrases"]
+    "subjects": ["phrases", "change", "growth", "business", "phrases"]
   },
   {
     "french_expression": "prendre de l’ampleur",
     "english_expression": "to expand / to gain scope",
     "spanish_expression": "cobrar amplitud",
     "id": 0.1021,
-    "subjects": ["expressions", "growth", "business growth"]
+    "subjects": ["phrases", "growth", "business growth"]
   },
   {
     "french_expression": "grandir en maturité",
     "english_expression": "to grow in maturity",
     "spanish_expression": "crecer en madurez",
     "id": 0.10220101,
-    "subjects": ["expressions", "growth", "personal development"]
+    "subjects": ["phrases", "growth", "personal development"]
   },
   {
     "french_expression": "se professionnaliser",
@@ -74,7 +74,7 @@
     "english_expression": "to take off / to flourish",
     "spanish_expression": "despegar / florecer",
     "id": 0.1024,
-    "subjects": ["expressions", "growth", "business", "personal development"]
+    "subjects": ["phrases", "growth", "business", "personal development"]
   },
   {
     "french_expression": "changer",
@@ -313,31 +313,6 @@
     "spanish_expression": "Los precios de las entradas aumentaron rápidamente debido a la alta demanda.",
     "id": 0.1047,
     "subjects": ["sentences", "economy", "growth"]
-  },
-  {
-    "french_expression": [
-      "s'épanouir dans qqch, capacité de synthèse, capacité de stockage - przyklady",
-      "J'ai beaucoup mûri pendant mon année à l'étranger.",
-      "Après une pluie d'été, les plantes se sont épanouies dans mon jardin.",
-      "Il s'est épanoui au contact de gens intelligents.",
-      "Jouer de la musique a permis à ma fille de s'épanouir.",
-      "La plante d'intérieur s'est épanouie à la lumière du soleil.",
-      "capacité de synthèse",
-      "capacité de stockage",
-      "Sa capacité d'écoute a fait de lui un bon dirigeant.",
-      "L'enseignante avait la capacité d'inspirer ses élèves.",
-      "L'entreprise a prouvé sa capacité à recouvrir ses créances.",
-      "Cet avion a la capacité d'atterrir sur des pistes courtes.",
-      "La capacité du verre est précisée sur l'emballage.",
-      "Le cerisier fleurit au printemps.",
-      "La plante a besoin de beaucoup d'eau et de lumière pour fleurir.",
-      "Au printemps, des coquelicots fleurissent sur toutes les collines.",
-
-      "capacité à croître",
-      "Les bénéfices croissent d'année en année.",
-      "L'univers continue de croître dans toutes les directions.",
-      "Les prix des billets ont rapidement crû en raison d'une forte demande."
-    ]
   },
   {
     "french_expression": "mourir",

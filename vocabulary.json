@@ -4,14 +4,77 @@
     "english_expression": "to become",
     "spanish_expression": "",
     "id": 0.1,
-    "subjects": ["verbs", "verbs of change"]
+    "subjects": ["verbs", "verbs of change", "growth"]
   },
   {
     "french_expression": "s'améliorer",
-    "english_expression": "to improve",
+    "english_expression": "to improve yourself",
     "spanish_expression": "",
     "id": 0.1001,
     "subjects": ["verbs", "verbs of change"]
+  },
+  {
+    "french_expression": "améliorer",
+    "english_expression": "to improve",
+    "spanish_expression": "mejorar",
+    "id": 0.101433401,
+    "subjects": ["verbs", "growth", "improvement", "verbs of change"]
+  },
+  {
+    "french_expression": "évoluer",
+    "english_expression": "to evolve / to develop",
+    "spanish_expression": "evolucionar",
+    "id": 0.1015,
+    "subjects": ["verbs", "growth", "personal development"]
+  },
+  {
+    "french_expression": "s’adapter",
+    "english_expression": "to adapt",
+    "spanish_expression": "adaptarse",
+    "id": 0.1016,
+    "subjects": ["verbs", "growth", "change"]
+  },
+  {
+    "french_expression": "se renforcer",
+    "english_expression": "to strengthen / to grow stronger",
+    "spanish_expression": "fortalecerse",
+    "id": 0.1019,
+    "subjects": ["verbs", "growth", "strength"]
+  },
+  {
+    "french_expression": "monter en puissance",
+    "english_expression": "to gain momentum / to scale up",
+    "spanish_expression": "aumentar en poder",
+    "id": 0.1020101,
+    "subjects": ["expressions", "change", "growth", "business", "phrases"]
+  },
+  {
+    "french_expression": "prendre de l’ampleur",
+    "english_expression": "to expand / to gain scope",
+    "spanish_expression": "cobrar amplitud",
+    "id": 0.1021,
+    "subjects": ["expressions", "growth", "business growth"]
+  },
+  {
+    "french_expression": "grandir en maturité",
+    "english_expression": "to grow in maturity",
+    "spanish_expression": "crecer en madurez",
+    "id": 0.10220101,
+    "subjects": ["expressions", "growth", "personal development"]
+  },
+  {
+    "french_expression": "se professionnaliser",
+    "english_expression": "to become more professional",
+    "spanish_expression": "profesionalizarse",
+    "id": 0.1023,
+    "subjects": ["verbs", "personal development", "career", "business"]
+  },
+  {
+    "french_expression": "prendre son essor",
+    "english_expression": "to take off / to flourish",
+    "spanish_expression": "despegar / florecer",
+    "id": 0.1024,
+    "subjects": ["expressions", "growth", "business", "personal development"]
   },
   {
     "french_expression": "changer",
@@ -35,6 +98,248 @@
     "subjects": ["verbs", "growth", "verbs of change"]
   },
   {
+    "french_expression": "croître",
+    "english_expression": "to grow / to increase",
+    "spanish_expression": "crecer",
+    "id": 0.10041,
+    "subjects": ["verbs", "growth"]
+  },
+  {
+    "french_expression": "fleurir",
+    "english_expression": "to bloom / to flourish",
+    "spanish_expression": "florecer",
+    "id": 0.10041,
+    "subjects": ["verbs", "growth", "nature"]
+  },
+  {
+    "french_expression": "mûrir",
+    "english_expression": "to mature / to ripen",
+    "spanish_expression": "madurar",
+    "id": 0.1008,
+    "subjects": ["verbs", "growth", "change", "nature"]
+  },
+  {
+    "french_expression": "s’épanouir",
+    "english_expression": "to blossom / to flourish",
+    "spanish_expression": "desarrollarse / florecer",
+    "id": 0.1009,
+    "subjects": ["verbs", "growth", "personal development", "nature"]
+  },
+  {
+    "french_expression": "s'épanouir dans qqch",
+    "english_expression": "thrive on sth",
+    "spanish_expression": "",
+    "id": 0.10091,
+    "subjects": ["phrases", "growth", "personal development"]
+  },
+  {
+    "french_expression": "s'épanouir grâce à",
+    "english_expression": "thrive on sth",
+    "spanish_expression": "",
+    "id": 0.10092,
+    "subjects": ["phrases", "growth", "personal development"]
+  },
+  {
+    "french_expression": "augmenter",
+    "english_expression": "to increase",
+    "spanish_expression": "aumentar",
+    "id": 0.1010441,
+    "subjects": ["verbs", "growth", "quantity"]
+  },
+  {
+    "french_expression": "progresser",
+    "english_expression": "to progress",
+    "spanish_expression": "progresar",
+    "id": 0.1011401,
+    "subjects": ["verbs", "growth", "improvement"]
+  },
+  {
+    "french_expression": "s’élever",
+    "english_expression": "to rise / to ascend",
+    "spanish_expression": "elevarse",
+    "id": 0.1012,
+    "subjects": ["verbs", "growth", "movement"]
+  },
+  {
+    "french_expression": "pousser",
+    "english_expression": "to grow (plants) / to push",
+    "spanish_expression": "crecer / empujar",
+    "id": 0.1013401,
+    "subjects": ["verbs", "growth", "nature"]
+  },
+  {
+    "french_expression": "capacité",
+    "english_expression": "capacity / ability",
+    "spanish_expression": "capacidad",
+    "id": 0.10250101,
+    "subjects": ["nouns", "skills", "growth"]
+  },
+  {
+    "french_expression": "le gruau de sarrasin",
+    "english_expression": "buckwheat porridge",
+    "spanish_expression": "gachas de alforfón",
+    "id": 0.10260101,
+    "subjects": ["nouns", "food"]
+  },
+  {
+    "french_expression": "J'ai beaucoup mûri pendant mon année à l'étranger.",
+    "english_expression": "I matured a lot during my year abroad.",
+    "spanish_expression": "Maduré mucho durante mi año en el extranjero.",
+    "id": 0.10280101,
+    "subjects": ["sentences", "growth", "experience"]
+  },
+  {
+    "french_expression": "Après une pluie d'été, les plantes se sont épanouies dans mon jardin.",
+    "english_expression": "After a summer rain, the plants blossomed in my garden.",
+    "spanish_expression": "Después de una lluvia de verano, las plantas florecieron en mi jardín.",
+    "id": 0.10290101,
+    "subjects": ["sentences", "growth", "nature"]
+  },
+  {
+    "french_expression": "Il s'est épanoui au contact de gens intelligents.",
+    "english_expression": "He flourished in the company of intelligent people.",
+    "spanish_expression": "Se desarrolló en contacto con personas inteligentes.",
+    "id": 0.10300101,
+    "subjects": ["sentences", "growth", "social"]
+  },
+  {
+    "french_expression": "Jouer de la musique a permis à ma fille de s'épanouir.",
+    "english_expression": "Playing music allowed my daughter to flourish.",
+    "spanish_expression": "Tocar música permitió a mi hija florecer.",
+    "id": 0.10310101,
+    "subjects": ["sentences", "growth", "personal development"]
+  },
+  {
+    "french_expression": "La plante d'intérieur s'est épanouie à la lumière du soleil.",
+    "english_expression": "The houseplant blossomed in the sunlight.",
+    "spanish_expression": "La planta de interior floreció a la luz del sol.",
+    "id": 0.10320101,
+    "subjects": ["sentences", "growth", "nature"]
+  },
+  {
+    "french_expression": "capacité de synthèse",
+    "english_expression": "ability to synthesize",
+    "spanish_expression": "capacidad de síntesis",
+    "id": 0.10330101,
+    "subjects": ["nouns", "skills", "growth"]
+  },
+  {
+    "french_expression": "capacité de stockage",
+    "english_expression": "storage capacity",
+    "spanish_expression": "capacidad de almacenamiento",
+    "id": 0.10340101,
+    "subjects": ["nouns", "technology", "growth"]
+  },
+  {
+    "french_expression": "Sa capacité d'écoute a fait de lui un bon dirigeant.",
+    "english_expression": "His ability to listen made him a good leader.",
+    "spanish_expression": "Su capacidad de escucha lo convirtió en un buen líder.",
+    "id": 0.10350101,
+    "subjects": ["sentences", "skills", "business"]
+  },
+  {
+    "french_expression": "L'enseignante avait la capacité d'inspirer ses élèves.",
+    "english_expression": "The teacher had the ability to inspire her students.",
+    "spanish_expression": "La maestra tenía la capacidad de inspirar a sus alumnos.",
+    "id": 0.10360101,
+    "subjects": ["sentences", "skills", "professions"]
+  },
+  {
+    "french_expression": "L'entreprise a prouvé sa capacité à recouvrir ses créances.",
+    "english_expression": "The company proved its ability to recover its debts.",
+    "spanish_expression": "La empresa demostró su capacidad para recuperar sus deudas.",
+    "id": 0.10380101,
+    "subjects": ["sentences", "business", "finance"]
+  },
+  {
+    "french_expression": "Cet avion a la capacité d'atterrir sur des pistes courtes.",
+    "english_expression": "This plane has the capacity to land on short runways.",
+    "spanish_expression": "Este avión tiene la capacidad de aterrizar en pistas cortas.",
+    "id": 0.10390101,
+    "subjects": ["sentences", "technology", "transport"]
+  },
+  {
+    "french_expression": "La capacité du verre est précisée sur l'emballage.",
+    "english_expression": "The glass's capacity is specified on the packaging.",
+    "spanish_expression": "La capacidad del vaso está indicada en el envase.",
+    "id": 0.10400101,
+    "subjects": ["sentences", "objects", "science", "physics"]
+  },
+  {
+    "french_expression": "Le cerisier fleurit au printemps.",
+    "english_expression": "The cherry tree blooms in spring.",
+    "spanish_expression": "El cerezo florece en primavera.",
+    "id": 0.10410101,
+    "subjects": ["sentences", "nature", "growth", "garden"]
+  },
+  {
+    "french_expression": "La plante a besoin de beaucoup d'eau et de lumière pour fleurir.",
+    "english_expression": "The plant needs a lot of water and light to bloom.",
+    "spanish_expression": "La planta necesita mucha agua y luz para florecer.",
+    "id": 0.10420101,
+    "subjects": ["sentences", "nature", "growth", "home"]
+  },
+  {
+    "french_expression": "Au printemps, des coquelicots fleurissent sur toutes les collines.",
+    "english_expression": "In spring, poppies bloom on all the hills.",
+    "spanish_expression": "En primavera, las amapolas florecen en todas las colinas.",
+    "id": 0.10430101,
+    "subjects": ["sentences", "nature", "growth"]
+  },
+  {
+    "french_expression": "capacité à croître",
+    "english_expression": "capacity to grow",
+    "spanish_expression": "capacidad de crecer",
+    "id": 0.10440101,
+    "subjects": ["nouns", "growth", "business"]
+  },
+  {
+    "french_expression": "Les bénéfices croissent d'année en année.",
+    "english_expression": "The profits grow year after year.",
+    "spanish_expression": "Las ganancias crecen año tras año.",
+    "id": 0.1045,
+    "subjects": ["sentences", "business", "growth", "finance"]
+  },
+  {
+    "french_expression": "L'univers continue de croître dans toutes les directions.",
+    "english_expression": "The universe continues to expand in all directions.",
+    "spanish_expression": "El universo sigue creciendo en todas las direcciones.",
+    "id": 0.1046,
+    "subjects": ["sentences", "science", "growth", "physics"]
+  },
+  {
+    "french_expression": "Les prix des billets ont rapidement crû en raison d'une forte demande.",
+    "english_expression": "Ticket prices quickly increased due to high demand.",
+    "spanish_expression": "Los precios de las entradas aumentaron rápidamente debido a la alta demanda.",
+    "id": 0.1047,
+    "subjects": ["sentences", "economy", "growth"]
+  },
+  {
+    "french_expression": [
+      "s'épanouir dans qqch, capacité de synthèse, capacité de stockage - przyklady",
+      "J'ai beaucoup mûri pendant mon année à l'étranger.",
+      "Après une pluie d'été, les plantes se sont épanouies dans mon jardin.",
+      "Il s'est épanoui au contact de gens intelligents.",
+      "Jouer de la musique a permis à ma fille de s'épanouir.",
+      "La plante d'intérieur s'est épanouie à la lumière du soleil.",
+      "capacité de synthèse",
+      "capacité de stockage",
+      "Sa capacité d'écoute a fait de lui un bon dirigeant.",
+      "L'enseignante avait la capacité d'inspirer ses élèves.",
+      "L'entreprise a prouvé sa capacité à recouvrir ses créances.",
+      "Cet avion a la capacité d'atterrir sur des pistes courtes.",
+      "La capacité du verre est précisée sur l'emballage.",
+      "Le cerisier fleurit au printemps.",
+      "La plante a besoin de beaucoup d'eau et de lumière pour fleurir.",
+      "Au printemps, des coquelicots fleurissent sur toutes les collines.",
+
+      "capacité à croître",
+      "Les bénéfices croissent d'année en année.",
+      "L'univers continue de croître dans toutes les directions.",
+      "Les prix des billets ont rapidement crû en raison d'une forte demande."
+    ]
+  },
+  {
     "french_expression": "mourir",
     "english_expression": "to die",
     "spanish_expression": "",
@@ -44,9 +349,9 @@
   {
     "french_expression": "se développer",
     "english_expression": "to develop",
-    "spanish_expression": "",
+    "spanish_expression": "desarrollarse",
     "id": 0.1006,
-    "subjects": ["verbs", "progress", "verbs of change"]
+    "subjects": ["verbs", "progress", "verbs of change", "growth"]
   },
   {
     "french_expression": "vieillir",
@@ -383,151 +688,151 @@
     "subjects": ["travel", "passé composé", "places"]
   },
   {
-  "french_expression": "J'ai goûté la pizza et les pâtes italiennes.",
-  "english_expression": "I tasted Italian pizza and pasta.",
-  "id": 8.26,
-  "subjects": ["food_and_drink"]
-},
-{
-  "french_expression": "J'ai essayé la paella et les tapas espagnoles.",
-  "english_expression": "I tried Spanish paella and tapas.",
-  "id": 8.27,
-  "subjects": ["food_and_drink"]
-},
-{
-  "french_expression": "la poste",
-  "english_expression": "the post office",
-  "id": 9,
-  "subjects": ["travel", "city_places"]
-},
-{
-  "french_expression": "la banque",
-  "english_expression": "the bank",
-  "id": 10,
-  "subjects": ["travel", "city_places"]
-},
-{
-  "french_expression": "le musée",
-  "english_expression": "the museum",
-  "id": 11,
-  "subjects": ["travel", "city_places", "culture"]
-},
-{
-  "french_expression": "le salon de coiffure",
-  "english_expression": "the hair salon",
-  "id": 12,
-  "subjects": ["travel", "city_places", "services"]
-},
-{
-  "french_expression": "le restaurant",
-  "english_expression": "the restaurant",
-  "id": 13,
-  "subjects": ["food_and_drink", "city_places"]
-},
-{
-  "french_expression": "l'office de tourisme",
-  "english_expression": "the tourism office",
-  "id": 14,
-  "subjects": ["travel", "city_places"]
-},
-{
-  "french_expression": "le palais de justice",
-  "english_expression": "the courthouse",
-  "id": 15,
-  "subjects": ["travel", "city_places"]
-},
-{
-  "french_expression": "le centre-ville",
-  "english_expression": "downtown, the city center",
-  "id": 16,
-  "subjects": ["travel", "city_places"]
-},
-{
-  "french_expression": "la gare",
-  "english_expression": "the station",
-  "id": 18,
-  "subjects": ["travel", "transport"]
-},
-{
-  "french_expression": "le parc",
-  "english_expression": "the park",
-  "id": 19,
-  "subjects": ["nature", "city_places"]
-},
-{
-  "french_expression": "la gare routière",
-  "english_expression": "the bus station",
-  "id": 20,
-  "subjects": ["travel", "transport"]
-},
-{
-  "french_expression": "l'église",
-  "english_expression": "the church",
-  "id": 21,
-  "subjects": ["travel", "city_places", "culture"]
-},
-{
-  "french_expression": "le port",
-  "english_expression": "the harbor",
-  "id": 22,
-  "subjects": ["travel", "transport"]
-},
-{
-  "french_expression": "la cathédrale",
-  "english_expression": "the cathedral",
-  "id": 23,
-  "subjects": ["travel", "city_places", "culture"]
-},
-{
-  "french_expression": "l'hôpital le plus proche",
-  "english_expression": "the nearest hospital",
-  "id": 24,
-  "subjects": ["travel", "health", "city_places"]
-},
-{
-  "french_expression": "le centre commercial",
-  "english_expression": "the mall / shopping center",
-  "id": 35,
-  "subjects": ["shopping", "city_places"]
-},
-{
-  "french_expression": "la sortie",
-  "english_expression": "the exit",
-  "id": 40,
-  "subjects": ["travel", "directions"]
-},
-{
-  "french_expression": "la plage",
-  "english_expression": "the beach",
-  "id": 41,
-  "subjects": ["nature", "travel"]
-},
-{
-  "french_expression": "Où sont les toilettes?",
-  "english_expression": "Where is the restroom?",
-  "id": 44,
-  "subjects": ["phrases", "travel"]
-},
-{
-  "french_expression": "un bâtiment",
-  "english_expression": "a building",
-  "id": 47,
-  "subjects": ["travel", "city_places"]
-},
-{
-  "french_expression": "du chocolat",
-  "english_expression": "chocolate",
-  "id": 56,
-  "subjects": ["food_and_drink"]
-},
-{
-  "french_expression": "Quel est ton dessert préféré?",
-  "english_expression": "What is your favourite dessert?",
-  "spanish_expression": "¿Cuál es su postre favorito?",
-  "id": 57,
-  "subjects": ["food_and_drink", "questions", "easy"]
-},
-{
+    "french_expression": "J'ai goûté la pizza et les pâtes italiennes.",
+    "english_expression": "I tasted Italian pizza and pasta.",
+    "id": 8.26,
+    "subjects": ["food_and_drink"]
+  },
+  {
+    "french_expression": "J'ai essayé la paella et les tapas espagnoles.",
+    "english_expression": "I tried Spanish paella and tapas.",
+    "id": 8.27,
+    "subjects": ["food_and_drink"]
+  },
+  {
+    "french_expression": "la poste",
+    "english_expression": "the post office",
+    "id": 9,
+    "subjects": ["travel", "city_places"]
+  },
+  {
+    "french_expression": "la banque",
+    "english_expression": "the bank",
+    "id": 10,
+    "subjects": ["travel", "city_places"]
+  },
+  {
+    "french_expression": "le musée",
+    "english_expression": "the museum",
+    "id": 11,
+    "subjects": ["travel", "city_places", "culture"]
+  },
+  {
+    "french_expression": "le salon de coiffure",
+    "english_expression": "the hair salon",
+    "id": 12,
+    "subjects": ["travel", "city_places", "services"]
+  },
+  {
+    "french_expression": "le restaurant",
+    "english_expression": "the restaurant",
+    "id": 13,
+    "subjects": ["food_and_drink", "city_places"]
+  },
+  {
+    "french_expression": "l'office de tourisme",
+    "english_expression": "the tourism office",
+    "id": 14,
+    "subjects": ["travel", "city_places"]
+  },
+  {
+    "french_expression": "le palais de justice",
+    "english_expression": "the courthouse",
+    "id": 15,
+    "subjects": ["travel", "city_places"]
+  },
+  {
+    "french_expression": "le centre-ville",
+    "english_expression": "downtown, the city center",
+    "id": 16,
+    "subjects": ["travel", "city_places"]
+  },
+  {
+    "french_expression": "la gare",
+    "english_expression": "the station",
+    "id": 18,
+    "subjects": ["travel", "transport"]
+  },
+  {
+    "french_expression": "le parc",
+    "english_expression": "the park",
+    "id": 19,
+    "subjects": ["nature", "city_places"]
+  },
+  {
+    "french_expression": "la gare routière",
+    "english_expression": "the bus station",
+    "id": 20,
+    "subjects": ["travel", "transport"]
+  },
+  {
+    "french_expression": "l'église",
+    "english_expression": "the church",
+    "id": 21,
+    "subjects": ["travel", "city_places", "culture"]
+  },
+  {
+    "french_expression": "le port",
+    "english_expression": "the harbor",
+    "id": 22,
+    "subjects": ["travel", "transport"]
+  },
+  {
+    "french_expression": "la cathédrale",
+    "english_expression": "the cathedral",
+    "id": 23,
+    "subjects": ["travel", "city_places", "culture"]
+  },
+  {
+    "french_expression": "l'hôpital le plus proche",
+    "english_expression": "the nearest hospital",
+    "id": 24,
+    "subjects": ["travel", "health", "city_places"]
+  },
+  {
+    "french_expression": "le centre commercial",
+    "english_expression": "the mall / shopping center",
+    "id": 35,
+    "subjects": ["shopping", "city_places"]
+  },
+  {
+    "french_expression": "la sortie",
+    "english_expression": "the exit",
+    "id": 40,
+    "subjects": ["travel", "directions"]
+  },
+  {
+    "french_expression": "la plage",
+    "english_expression": "the beach",
+    "id": 41,
+    "subjects": ["nature", "travel"]
+  },
+  {
+    "french_expression": "Où sont les toilettes?",
+    "english_expression": "Where is the restroom?",
+    "id": 44,
+    "subjects": ["phrases", "travel"]
+  },
+  {
+    "french_expression": "un bâtiment",
+    "english_expression": "a building",
+    "id": 47,
+    "subjects": ["travel", "city_places"]
+  },
+  {
+    "french_expression": "du chocolat",
+    "english_expression": "chocolate",
+    "id": 56,
+    "subjects": ["food_and_drink"]
+  },
+  {
+    "french_expression": "Quel est ton dessert préféré?",
+    "english_expression": "What is your favourite dessert?",
+    "spanish_expression": "¿Cuál es su postre favorito?",
+    "id": 57,
+    "subjects": ["food_and_drink", "questions", "easy"]
+  },
+  {
     "french_expression": "Aimes-tu du chocolat, un gâteau, une tarte ou un biscuit ?",
     "english_expression": "Do you like chocolate, cakes, tarts or biscuits?",
     "spanish_expression": "¿Le gusta el chocolate, los pasteles, las tartas o las galletas?",
